@@ -1,19 +1,15 @@
 {
-  "version": "0.3.0",
-  "versionCode": 3000,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.0/SoTayToan-0.3.0.apk",
-  "sha256": "f2b6a600d3bef2d2daacf3b5118419fc4bbe68b3513f676fc0dbcf25e97644c9",
+  "version": "0.3.1",
+  "versionCode": 3001,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.1/SoTayToan-0.3.1.apk",
+  "sha256": "55d928a9fa255b85f6d9c497f287f2c3d8000b78e7c3960e80a3c98779629576",
   "notes": [
-    "Giao diện mới 2 dòng nền kem",
-    "Bút laser",
-    "Thước ảo và compa (5 loại)",
-    "Chèn khoảng trống dọc",
-    "Chọn vùng thông minh (kéo dãn, căn thẳng dòng, chép ảnh)",
-    "Hình học phẳng và không gian 4 tab",
-    "Hệ trục Oxy/Oxyz, đồ thị hàm số và bảng biến thiên tự động",
-    "Xử lý ảnh đề thi (cắt, rọc đôi, lọc nền)",
-    "Nhiều Sheet trong một sổ",
-    "Dạ quang trộn màu"
+    "Kho mẫu hình và bảng: nút ngôi sao, lưu vùng chọn, 8 mẫu Toán dựng sẵn",
+    "Bảng Hình học dạng lưới icon, thêm Elip",
+    "Tô miền nghiệm hệ bất phương trình (mặc định kiểu SGK)",
+    "Nét hình học, bảng, hệ trục đều và sắc như vẽ thước",
+    "Sửa sập app khi phóng to lớn (zoom tối đa 400%)",
+    "Sửa ngón tay hoặc chuột máy ảo không vẽ được"
   ],
   "date": "2026-11-11"
 }
