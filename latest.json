@@ -1,19 +1,14 @@
 {
-  "version": "0.2.0",
-  "versionCode": 2000,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.2.0/SoTayToan-0.2.0.apk",
-  "sha256": "9d3ba6220746447cf87a330bf940b5a0ce887254010c8d67b95fc40dcba7cfdc",
+  "version": "0.2.1",
+  "versionCode": 2001,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.2.1/SoTayToan-0.2.1.apk",
+  "sha256": "c57f7173cc317570840e22d262679cdd2209cdf955c8ead2ba1143766ba9c56d",
   "notes": [
-    "Đổi tên app thành HEdu",
-    "Nút Kiểm tra cập nhật trong app (từ nay tự cập nhật không cần chép tệp)",
-    "Sổ lưu thành tệp trên máy, có Thùng rác 30 ngày, Sao lưu và Khôi phục",
-    "Trang viết cuộn nhiều trang, phóng to thu nhỏ, chụm hai ngón, chạm hai ngón để hoàn tác",
-    "Thanh công cụ mới gọn: 5 bút lưu sẵn, bút chì, dạ quang 3 màu, tẩy từng đoạn",
-    "Chọn vùng rồi dời, phóng, xoay, đổi màu",
-    "Giữ bút nửa giây để nắn thẳng tròn tam giác chữ nhật",
-    "Nhập PDF để viết lên, chèn ảnh, xuất PDF và ảnh PNG",
-    "Giao diện nhiều bảng màu, Thư viện có ảnh bìa và yêu thích",
-    "Nét bút vẽ mượt hơn, có bảng Đo bút để gửi số đo"
+    "Chọn vùng: quét trúng một phần nét là chọn cả nét",
+    "Zoom mượt hơn",
+    "Thêm 8 kiểu giấy (vở có lề, ô ly 5 mm, ô ly đậm, trục Oxy, Cornell…) có bảng chọn xem trước",
+    "Đa sổ: mở nhiều sổ bằng tab như trình duyệt",
+    "Giao diện mới: bộ icon mới, thư viện, bìa sổ, thanh công cụ"
   ],
   "date": "2026-11-11"
 }
