@@ -1,14 +1,19 @@
 {
-  "version": "0.2.1",
-  "versionCode": 2001,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.2.1/SoTayToan-0.2.1.apk",
-  "sha256": "c57f7173cc317570840e22d262679cdd2209cdf955c8ead2ba1143766ba9c56d",
+  "version": "0.3.0",
+  "versionCode": 3000,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.0/SoTayToan-0.3.0.apk",
+  "sha256": "f2b6a600d3bef2d2daacf3b5118419fc4bbe68b3513f676fc0dbcf25e97644c9",
   "notes": [
-    "Chọn vùng: quét trúng một phần nét là chọn cả nét",
-    "Zoom mượt hơn",
-    "Thêm 8 kiểu giấy (vở có lề, ô ly 5 mm, ô ly đậm, trục Oxy, Cornell…) có bảng chọn xem trước",
-    "Đa sổ: mở nhiều sổ bằng tab như trình duyệt",
-    "Giao diện mới: bộ icon mới, thư viện, bìa sổ, thanh công cụ"
+    "Giao diện mới 2 dòng nền kem",
+    "Bút laser",
+    "Thước ảo và compa (5 loại)",
+    "Chèn khoảng trống dọc",
+    "Chọn vùng thông minh (kéo dãn, căn thẳng dòng, chép ảnh)",
+    "Hình học phẳng và không gian 4 tab",
+    "Hệ trục Oxy/Oxyz, đồ thị hàm số và bảng biến thiên tự động",
+    "Xử lý ảnh đề thi (cắt, rọc đôi, lọc nền)",
+    "Nhiều Sheet trong một sổ",
+    "Dạ quang trộn màu"
   ],
   "date": "2026-11-11"
 }
