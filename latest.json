@@ -1,15 +1,12 @@
 {
-  "version": "0.3.2",
-  "versionCode": 3002,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.2/SoTayToan-0.3.2.apk",
-  "sha256": "8f9b535c4da8cae9d62981b34d94308abf6d0b9fcf5a8f73fe990e982cc05b2f",
+  "version": "0.3.3",
+  "versionCode": 3003,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.3/SoTayToan-0.3.3.apk",
+  "sha256": "764ef0e6790e16f6d3b9d1c1d691b9d7d62dfe35d1810a795e13f097540c1356",
   "notes": [
-    "Bố cục gọn 2 dòng, tab sổ tối đa 5 và chạm đúp để đổi tên, cột trang ẩn sẵn",
-    "Nút Đồ thị và bảng biến thiên dùng được",
-    "Nhãn hình bằng chữ Times nghiêng có viền sáng, mũi tên và nét hình chuẩn SGK",
-    "Hình vẽ xong còn chỉnh được bằng tay nắm rồi mới chốt",
-    "Tia chỉ vươn quá điểm B một đoạn ngắn",
-    "Sửa nhân bản sổ mất ảnh và PDF"
+    "Hình học: kéo từng đỉnh, chạm cạnh đổi nét liền/đứt, chạm đỉnh chọn tên nhanh",
+    "Bút giữ yên 0,5 giây nắn ngoặc tròn và ngoặc vuông, Hoàn tác một lần về nét tay",
+    "Toolbar gọn, thước nhựa trong suốt, bỏ nút Kẻ thẳng"
   ],
   "date": "2026-11-11"
 }
