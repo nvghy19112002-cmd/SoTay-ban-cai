@@ -1,15 +1,15 @@
 {
-  "version": "0.3.1",
-  "versionCode": 3001,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.1/SoTayToan-0.3.1.apk",
-  "sha256": "55d928a9fa255b85f6d9c497f287f2c3d8000b78e7c3960e80a3c98779629576",
+  "version": "0.3.2",
+  "versionCode": 3002,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.2/SoTayToan-0.3.2.apk",
+  "sha256": "8f9b535c4da8cae9d62981b34d94308abf6d0b9fcf5a8f73fe990e982cc05b2f",
   "notes": [
-    "Kho mẫu hình và bảng: nút ngôi sao, lưu vùng chọn, 8 mẫu Toán dựng sẵn",
-    "Bảng Hình học dạng lưới icon, thêm Elip",
-    "Tô miền nghiệm hệ bất phương trình (mặc định kiểu SGK)",
-    "Nét hình học, bảng, hệ trục đều và sắc như vẽ thước",
-    "Sửa sập app khi phóng to lớn (zoom tối đa 400%)",
-    "Sửa ngón tay hoặc chuột máy ảo không vẽ được"
+    "Bố cục gọn 2 dòng, tab sổ tối đa 5 và chạm đúp để đổi tên, cột trang ẩn sẵn",
+    "Nút Đồ thị và bảng biến thiên dùng được",
+    "Nhãn hình bằng chữ Times nghiêng có viền sáng, mũi tên và nét hình chuẩn SGK",
+    "Hình vẽ xong còn chỉnh được bằng tay nắm rồi mới chốt",
+    "Tia chỉ vươn quá điểm B một đoạn ngắn",
+    "Sửa nhân bản sổ mất ảnh và PDF"
   ],
   "date": "2026-11-11"
 }
