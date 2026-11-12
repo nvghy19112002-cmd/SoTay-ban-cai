@@ -1,11 +1,13 @@
 {
-  "version": "0.3.7",
-  "versionCode": 3007,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.7/SoTayToan-0.3.7.apk",
-  "sha256": "28884efb95f503e1bc3c906d9172d7d6d0f1bafa6167a7f3f206b9e6fa0ddbed",
+  "version": "0.3.8",
+  "versionCode": 3008,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.8/SoTayToan-0.3.8.apk",
+  "sha256": "b29b5ea16d698f7033e05d035b810b2fec514410f23b96fb1a9a5072d4bfa1e1",
   "notes": [
-    "Sửa lỗi nét đã nắn hình bị hiện lại thành nét tay sau khi nhấc bút",
-    "giữ bút nắn hình chờ lâu hơn (0,75 giây) và chịu rung tay hơn"
+    "Hình đã nắn (giữ bút) vẽ nét đều, không bị mảnh ở chỗ nối",
+    "nét gần kín được khép thành elip",
+    "giữ bút chờ 0,75 giây và chịu rung tay hơn",
+    "thêm thước cong QL-01 có lỗ tròn và khe cong, bút bám đúng mép"
   ],
   "date": "2026-11-12"
 }
