@@ -1,17 +1,17 @@
 {
-  "version": "0.3.4",
-  "versionCode": 3004,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.4/SoTayToan-0.3.4.apk",
-  "sha256": "139f6e461be501234d212c70dd9db42f7cb91896e9e9ea784fc53dc380c441ae",
+  "version": "0.3.5",
+  "versionCode": 3005,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.5/SoTayToan-0.3.5.apk",
+  "sha256": "ce840bbe7228e5d4f8a153e9c7f69a7214fe6efd177ed298bc5b9c8a9139daf6",
   "notes": [
-    "Nút Hình học tách đôi: Hình vẽ và Dựng hình, bảng sáng kiểu iPad",
-    "thêm Đường thẳng, Parabol, Hypebol, Cung, Nửa đường tròn, Hình quạt, Chóp cụt, Bát diện, Nón cụt, Chỏm cầu...",
-    "Đoạn thẳng/Tia/Vectơ chạm 2 điểm",
-    "trung tuyến, tiếp tuyến, ký hiệu song song",
-    "tự chốt hình khi mở menu",
-    "nét viết mượt hơn, lọc theo vận tốc, đuôi nét vuốt nhọn",
-    "nhận diện ngoặc tròn và ngoặc vuông",
-    "bỏ Trục số"
+    "Màn hình chính mới: thư mục, danh sách dọc, nút bút nhanh",
+    "khung co giãn hình, bảng bút sáng, quản lý trang (chọn nhiều, mục lục, đánh dấu)",
+    "hình học: chóp chuẩn THPT, hình thoi, đa giác đều, đổ màu nền, công cụ Bảng",
+    "Siêu tẩy (tẩy nét/điểm/khoanh vùng, chỉ tẩy dạ quang, xóa sạch trang)",
+    "dạ quang tự kẻ thẳng",
+    "laser chỉnh thời gian",
+    "bộ lọc chọn vùng",
+    "thêm trang chọn vị trí và mẫu nền"
   ],
   "date": "2026-11-12"
 }
