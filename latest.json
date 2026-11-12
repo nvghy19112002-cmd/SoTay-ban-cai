@@ -1,12 +1,14 @@
 {
-  "version": "0.3.12",
-  "versionCode": 3012,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.12/SoTayToan-0.3.12.apk",
-  "sha256": "d6e70763623f5326392699846d979e59da52ed2e583a155db970fbd362cb282b",
+  "version": "0.3.15",
+  "versionCode": 3015,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.15/SoTayToan-0.3.15.apk",
+  "sha256": "ed4f345007219d19acc35a81acfa74e363b9bc9db10e608bedb3aa1f97876381",
   "notes": [
-    "Bảng Hình vẽ làm lại: cột nhóm bên trái, ô hình to dễ chạm, ô tìm không cần dấu, hàng Vừa dùng, nút bật/tắt Chấm đỉnh - Bắt lưới - Tên đỉnh - Tô nền",
-    "Thêm 10 hình: hình thang, thang vuông, lập phương, chóp đáy bình hành, chóp đáy bình hành SA vuông góc đáy, chóp đáy hình thang, lăng trụ xiên đáy bình hành, nêm 2 kiểu, trụ cụt",
-    "Đa giác đều chọn từ 3 đến 12 cạnh"
+    "Sửa lỗi nhấp nháy khi viết",
+    "Thanh công cụ khi chọn đối tượng có chữ rõ, chạm một cạnh là chọn cả hình",
+    "Chèn hình: chọn hình rồi chạm lên trang là hình hiện ngay cỡ 6 cm",
+    "Kéo góc phóng to hình đều, không trôi, không lật",
+    "Vẽ lại theo mẫu: tứ diện, chóp tam giác SA vuông góc đáy, lăng trụ đứng, chóp tứ giác SO vuông góc đáy"
   ],
   "date": "2026-11-12"
 }
