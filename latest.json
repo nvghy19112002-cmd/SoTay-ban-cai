@@ -1,14 +1,19 @@
 {
-  "version": "0.3.15",
-  "versionCode": 3015,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.15/SoTayToan-0.3.15.apk",
-  "sha256": "ed4f345007219d19acc35a81acfa74e363b9bc9db10e608bedb3aa1f97876381",
+  "version": "0.3.17",
+  "versionCode": 3017,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.17/SoTayToan-0.3.17.apk",
+  "sha256": "bb44a1f4862d979243f24cdc7e3361dba4ccb90dfa1902416527c2a3e84e1283",
   "notes": [
-    "Sửa lỗi nhấp nháy khi viết",
-    "Thanh công cụ khi chọn đối tượng có chữ rõ, chạm một cạnh là chọn cả hình",
-    "Chèn hình: chọn hình rồi chạm lên trang là hình hiện ngay cỡ 6 cm",
-    "Kéo góc phóng to hình đều, không trôi, không lật",
-    "Vẽ lại theo mẫu: tứ diện, chóp tam giác SA vuông góc đáy, lăng trụ đứng, chóp tứ giác SO vuông góc đáy"
+    "Chọn hình rồi chạm lên trang là hình hiện ngay cỡ chuẩn (bỏ kéo khung, bỏ dải gợi ý)",
+    "Hình vừa đặt: kéo ở đâu cũng dời cả hình, kéo 4 góc để phóng to đều",
+    "Thêm Chóp đáy hình thang vuông 4 kiểu (hai đáy tự do hoặc gấp đôi, S tự do hoặc SA vuông góc đáy)",
+    "Vẽ lại tứ diện, chóp tam giác SA vuông góc đáy, chóp tứ giác SA vuông góc đáy, lăng trụ đứng, chóp tứ giác SO vuông góc đáy theo mẫu",
+    "Tên điểm dùng chữ nghiêng kiểu sách Toán",
+    "Thanh công cụ khi chọn đối tượng có chữ rõ, chạm một cạnh chọn cả hình",
+    "Bảng Hình vẽ cuộn được bằng bút",
+    "Kéo cuối sổ thêm trang nhảy đúng trang mới",
+    "Sửa hàng Sổ mới bị lệch ở Thư viện dạng danh sách",
+    "Sửa lỗi nhấp nháy khi viết"
   ],
   "date": "2026-11-12"
 }
