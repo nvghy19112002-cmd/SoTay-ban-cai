@@ -1,17 +1,11 @@
 {
-  "version": "0.3.6",
-  "versionCode": 3006,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.6/SoTayToan-0.3.6.apk",
-  "sha256": "ba79913887f94c1025c5a985faff9c91a2724283987ba921a3a58a4288685342",
+  "version": "0.3.7",
+  "versionCode": 3007,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.7/SoTayToan-0.3.7.apk",
+  "sha256": "28884efb95f503e1bc3c906d9172d7d6d0f1bafa6167a7f3f206b9e6fa0ddbed",
   "notes": [
-    "Giao diện mới 2 dòng: Dòng 1 gọn chỉ icon + tab sổ",
-    "Dòng 2 căn giữa có đổi nhanh 4 màu và 3 độ dày",
-    "nền bàn xám dịu, giấy nổi",
-    "Popover Bút mới: bút bi / bút máy / bút lông, độ dày theo mm, độ nhạy lực, ổn định nét",
-    "Đặt tên đỉnh thông minh: gợi ý S.ABCD, gõ chuỗi, xoay đỉnh đáy, chọn tên điểm 1 chạm",
-    "Chèn ảnh: 9 ảnh gần đây, chọn nhiều ảnh, chụp ảnh",
-    "Hình nháp có khung 8 điểm co giãn",
-    "Tam giác có đường cao: AH nét đứt"
+    "Sửa lỗi nét đã nắn hình bị hiện lại thành nét tay sau khi nhấc bút",
+    "giữ bút nắn hình chờ lâu hơn (0,75 giây) và chịu rung tay hơn"
   ],
   "date": "2026-11-12"
 }
