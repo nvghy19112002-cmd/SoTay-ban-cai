@@ -1,13 +1,16 @@
 {
-  "version": "0.3.8",
-  "versionCode": 3008,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.8/SoTayToan-0.3.8.apk",
-  "sha256": "b29b5ea16d698f7033e05d035b810b2fec514410f23b96fb1a9a5072d4bfa1e1",
+  "version": "0.3.9",
+  "versionCode": 3009,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.9/SoTayToan-0.3.9.apk",
+  "sha256": "dbaca2f4d53407336505a21365b04c4022ea258694b821f7a35d84354c9efe54",
   "notes": [
-    "Hình đã nắn (giữ bút) vẽ nét đều, không bị mảnh ở chỗ nối",
-    "nét gần kín được khép thành elip",
-    "giữ bút chờ 0,75 giây và chịu rung tay hơn",
-    "thêm thước cong QL-01 có lỗ tròn và khe cong, bút bám đúng mép"
+    "Giao diện mới: bàn xám đậm, giấy nổi khối, mũi tên báo bảng tuỳ chọn trên công cụ",
+    "chế độ Tập trung (nút ở cuối dòng 1) có nút Hoàn tác/Làm lại nhỏ",
+    "bảng Cài đặt trang (màu giấy, mẫu giấy, khoảng cách ô, xem trước)",
+    "sổ mới có giấy kem nhạt",
+    "Thư viện dạng lưới thẻ sổ có gáy",
+    "hình đã nắn vẽ nét đều, góc vuông",
+    "chữ nhật nghiêng được dựng lại đúng 90 độ"
   ],
   "date": "2026-11-12"
 }
