@@ -1,12 +1,17 @@
 {
-  "version": "0.3.3",
-  "versionCode": 3003,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.3/SoTayToan-0.3.3.apk",
-  "sha256": "764ef0e6790e16f6d3b9d1c1d691b9d7d62dfe35d1810a795e13f097540c1356",
+  "version": "0.3.4",
+  "versionCode": 3004,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.4/SoTayToan-0.3.4.apk",
+  "sha256": "139f6e461be501234d212c70dd9db42f7cb91896e9e9ea784fc53dc380c441ae",
   "notes": [
-    "Hình học: kéo từng đỉnh, chạm cạnh đổi nét liền/đứt, chạm đỉnh chọn tên nhanh",
-    "Bút giữ yên 0,5 giây nắn ngoặc tròn và ngoặc vuông, Hoàn tác một lần về nét tay",
-    "Toolbar gọn, thước nhựa trong suốt, bỏ nút Kẻ thẳng"
+    "Nút Hình học tách đôi: Hình vẽ và Dựng hình, bảng sáng kiểu iPad",
+    "thêm Đường thẳng, Parabol, Hypebol, Cung, Nửa đường tròn, Hình quạt, Chóp cụt, Bát diện, Nón cụt, Chỏm cầu...",
+    "Đoạn thẳng/Tia/Vectơ chạm 2 điểm",
+    "trung tuyến, tiếp tuyến, ký hiệu song song",
+    "tự chốt hình khi mở menu",
+    "nét viết mượt hơn, lọc theo vận tốc, đuôi nét vuốt nhọn",
+    "nhận diện ngoặc tròn và ngoặc vuông",
+    "bỏ Trục số"
   ],
-  "date": "2026-11-11"
+  "date": "2026-11-12"
 }
