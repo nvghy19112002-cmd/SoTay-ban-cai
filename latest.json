@@ -1,17 +1,13 @@
 {
-  "version": "0.3.10",
-  "versionCode": 3010,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.10/SoTayToan-0.3.10.apk",
-  "sha256": "d3d547c70e6879ce2816260949f6b403fe339cdb4e52c3df0f70321a88fe8dc7",
+  "version": "0.3.11",
+  "versionCode": 3011,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.11/SoTayToan-0.3.11.apk",
+  "sha256": "18dd0e8c6f47506bd14582eca6b7cf9afb6252d1a5ab25927e21fb2876c9dcc5",
   "notes": [
-    "Bút: nét mượt hơn, bút máy chỉnh được góc ngòi, chế độ viết riêng",
-    "Tẩy chạm một lần không tự nhảy về bút",
-    "Chọn từng nét",
-    "Thước mới (thước tròn 360, ê-ke 20 cm, compa kéo đầu chì + Vẽ vòng), mỗi thước một màu, hết vạch lòi ra",
-    "Vuốt trang có quán tính",
-    "kéo quá cuối sổ để thêm trang (máy rung)",
-    "Tệp sổ nhỏ gọn hơn, tự sao lưu nền",
-    "Cài đặt dạng thẻ, Thư viện tiếng Việt, nút to hơn cho ngón tay"
+    "Thư viện: nút Cài đặt, bìa màu cho sổ, xem lưới/danh sách, sắp xếp 6 kiểu, nhắc sao lưu",
+    "Cài đặt chia hai cột theo nhóm, thêm công tắc kéo cuối sổ thêm trang",
+    "Thước: một tông màu, thước kẻ gọn hơn, thước parabol dạng tấm bầu dục",
+    "Khung chọn: bỏ chấm màu trùng nhau"
   ],
   "date": "2026-11-12"
 }
