@@ -1,16 +1,17 @@
 {
-  "version": "0.3.9",
-  "versionCode": 3009,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.9/SoTayToan-0.3.9.apk",
-  "sha256": "dbaca2f4d53407336505a21365b04c4022ea258694b821f7a35d84354c9efe54",
+  "version": "0.3.10",
+  "versionCode": 3010,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.10/SoTayToan-0.3.10.apk",
+  "sha256": "d3d547c70e6879ce2816260949f6b403fe339cdb4e52c3df0f70321a88fe8dc7",
   "notes": [
-    "Giao diện mới: bàn xám đậm, giấy nổi khối, mũi tên báo bảng tuỳ chọn trên công cụ",
-    "chế độ Tập trung (nút ở cuối dòng 1) có nút Hoàn tác/Làm lại nhỏ",
-    "bảng Cài đặt trang (màu giấy, mẫu giấy, khoảng cách ô, xem trước)",
-    "sổ mới có giấy kem nhạt",
-    "Thư viện dạng lưới thẻ sổ có gáy",
-    "hình đã nắn vẽ nét đều, góc vuông",
-    "chữ nhật nghiêng được dựng lại đúng 90 độ"
+    "Bút: nét mượt hơn, bút máy chỉnh được góc ngòi, chế độ viết riêng",
+    "Tẩy chạm một lần không tự nhảy về bút",
+    "Chọn từng nét",
+    "Thước mới (thước tròn 360, ê-ke 20 cm, compa kéo đầu chì + Vẽ vòng), mỗi thước một màu, hết vạch lòi ra",
+    "Vuốt trang có quán tính",
+    "kéo quá cuối sổ để thêm trang (máy rung)",
+    "Tệp sổ nhỏ gọn hơn, tự sao lưu nền",
+    "Cài đặt dạng thẻ, Thư viện tiếng Việt, nút to hơn cho ngón tay"
   ],
   "date": "2026-11-12"
 }
