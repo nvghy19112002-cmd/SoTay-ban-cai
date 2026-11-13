@@ -1,15 +1,14 @@
 {
-  "version": "0.3.19",
-  "versionCode": 3019,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.19/SoTayToan-0.3.19.apk",
-  "sha256": "9de33e7fd504c0f7256d207aaddc94eddb7d2c73d5667420d4c0b6a7c9b25d74",
+  "version": "0.3.20",
+  "versionCode": 3020,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.20/SoTayToan-0.3.20.apk",
+  "sha256": "603d9df89c93fbb1462966b8ea6e6e067a133d73485990dec6345200926b7874",
   "notes": [
-    "Cột trang mới: chọn nhiều trang rồi Xuất PDF hoặc Xuất ảnh (nhiều ảnh gói thành một tệp zip) và chia sẻ thẳng qua Zalo hay Messenger",
-    "Một bộ màu duy nhất cho cả app, bỏ các giao diện Sáng, Tối, Sổ da, Bảng phấn",
-    "Chạm đỉnh, cạnh hoặc vùng giữa hình là chọn cả hình",
-    "Thanh thao tác theo từng loại: điểm có Đổi tên và đổi cỡ, hình khép kín có Tô nền, màu gọn một ô",
-    "Khung chọn điểm ôm sát hơn",
-    "Bỏ thước parabol, dùng thước cong QL-01"
+    "Cột trang mới gọn như Samsung Notes: số trang, Chọn, dấu trang, mục lục, lưới 2 cột và ô dấu cộng thêm trang",
+    "Xuất ảnh nhiều trang ra từng ảnh rời và chia sẻ cùng lúc",
+    "Điểm to và rõ hơn kiểu GeoGebra, gợi ý tên điểm còn 3 và có ô gõ tên khác",
+    "Bỏ dải chữ hướng dẫn của công cụ Hình học",
+    "Khung chọn ôm sát đối tượng, thanh thao tác sáng gọn: Xoá màu đỏ, cỡ điểm bằng thanh trượt"
   ],
   "date": "2026-11-13"
 }
