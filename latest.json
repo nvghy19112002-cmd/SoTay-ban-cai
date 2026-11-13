@@ -1,19 +1,22 @@
 {
-  "version": "0.3.17",
-  "versionCode": 3017,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.17/SoTayToan-0.3.17.apk",
-  "sha256": "bb44a1f4862d979243f24cdc7e3361dba4ccb90dfa1902416527c2a3e84e1283",
+  "version": "0.3.18",
+  "versionCode": 3018,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.18/SoTayToan-0.3.18.apk",
+  "sha256": "72522f9125868027fce9ad59014cc98772201b71950706871040d8644eb8f3f3",
   "notes": [
-    "Chọn hình rồi chạm lên trang là hình hiện ngay cỡ chuẩn (bỏ kéo khung, bỏ dải gợi ý)",
-    "Hình vừa đặt: kéo ở đâu cũng dời cả hình, kéo 4 góc để phóng to đều",
-    "Thêm Chóp đáy hình thang vuông 4 kiểu (hai đáy tự do hoặc gấp đôi, S tự do hoặc SA vuông góc đáy)",
-    "Vẽ lại tứ diện, chóp tam giác SA vuông góc đáy, chóp tứ giác SA vuông góc đáy, lăng trụ đứng, chóp tứ giác SO vuông góc đáy theo mẫu",
-    "Tên điểm dùng chữ nghiêng kiểu sách Toán",
-    "Thanh công cụ khi chọn đối tượng có chữ rõ, chạm một cạnh chọn cả hình",
-    "Bảng Hình vẽ cuộn được bằng bút",
-    "Kéo cuối sổ thêm trang nhảy đúng trang mới",
-    "Sửa hàng Sổ mới bị lệch ở Thư viện dạng danh sách",
-    "Sửa lỗi nhấp nháy khi viết"
+    "Sửa hình đã vẽ: chạm đúp vào hình để đổi tên đỉnh, nét đứt, phóng to thu nhỏ",
+    "Vòng sáng báo điểm sắp hút khi rê bút gần",
+    "Dựng góc và tâm tam giác chỉ cần chạm cạnh hoặc chạm vào trong tam giác",
+    "Chạm lần 1 chọn cả hình, chạm lần 2 chọn riêng một cạnh",
+    "Phóng to hình giữ nguyên nét mảnh và cỡ chữ",
+    "Kéo vùng chọn sang trang kề",
+    "Gạch nguệch ngoạc đè chữ viết tay để xoá (có công tắc tắt)",
+    "Giữ bút ở chỗ trống hiện nút Dán tại đây",
+    "Nắn đoạn thẳng xong vẫn kéo dây thun được",
+    "Ảnh thu nhỏ và bìa sổ hiện cả nền PDF và ảnh",
+    "Thước parabol dạng giọt nước, compa nhỏ lại, số ở đầu thước thẳng không còn tràn",
+    "Bấm - và + để đổi cỡ dụng cụ",
+    "Điểm nhỏ dễ cầm kéo hơn"
   ],
-  "date": "2026-11-12"
+  "date": "2026-11-13"
 }
