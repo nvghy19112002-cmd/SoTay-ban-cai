@@ -1,16 +1,16 @@
 {
-  "version": "0.3.21",
-  "versionCode": 3021,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.21/SoTayToan-0.3.21.apk",
-  "sha256": "4a933765b0f5feaf4e2719067ae37fc71c4f622dcd123c1aa904cbcf957bd5ff",
+  "version": "0.3.22",
+  "versionCode": 3022,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.22/SoTayToan-0.3.22.apk",
+  "sha256": "842764a4865dc351f206b903a25f0318cbe85af00cb528b33a56a8318ffb76d3",
   "notes": [
-    "Màn hình Tổng quan trang và Xuất toàn màn hình: chọn nhiều trang, xuất PDF hoặc ảnh, thêm, nhân bản, sao chép, dán, xoá, đánh dấu, kéo-thả đổi thứ tự",
-    "Bảng Hình vẽ và Dựng hình có độ dày nét và bộ màu",
-    "Thêm Bảng xét dấu, Bảng biến thiên, Cung bằng nhau, Tia đối, Đa giác, Cung qua 3 điểm, Số đo góc, Đối xứng trục, Đối xứng tâm, Tịnh tiến",
-    "Chọn vùng giữa hình đúng với hình lõm",
-    "Vẽ lại các khối: Chóp tứ giác, Chóp SA vuông đáy (thêm mẫu đáy tứ giác thường), Chóp đáy bình hành, Chóp đáy thang vuông (thêm kiểu đáy gấp đôi), Lăng trụ xiên, Mặt phẳng đổi được tên",
-    "Nhãn đỉnh tự tránh đường, mặt không bị hẹp",
-    "Bút có thêm kiểu đường gạch dài, chấm, chấm gạch"
+    "Thước tắt chế độ hình học khi dùng",
+    "Bảng xét dấu để trống",
+    "Chọn ảnh có khung rõ, kéo ảnh thấy ảnh chuyển động theo bút, thanh thao tác ảnh gọn hai hàng",
+    "Bộ chọn màu kiểu bảng màu thay ô nhiều màu",
+    "Bỏ nút Thư viện, nút Quay về của máy tự đóng bảng hoặc về Thư viện",
+    "Chóp tứ giác đều cân đối hai mặt bên, chóp đáy thang không còn mặt hẹp, icon chóp đáy thang đẹp hơn",
+    "Chạm đỉnh của hình hiện nhắc hình cứng"
   ],
   "date": "2026-11-13"
 }
