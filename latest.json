@@ -1,16 +1,16 @@
 {
-  "version": "0.3.23",
-  "versionCode": 3023,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.23/SoTayToan-0.3.23.apk",
-  "sha256": "12bde1ef632c97047fedd98aac156fcd351c9b37eacaaef45c5219043924cdaf",
+  "version": "0.3.25",
+  "versionCode": 3025,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.25/SoTayToan-0.3.25.apk",
+  "sha256": "0f7ec9360c3d879d38b3f1e2e6f483a76fd01bb1b4df9377179c49f75b03dbb0",
   "notes": [
-    "Bảng biến thiên tự lập: gõ hàm số là tự lập bảng (đa thức, phân thức, sin, ln, căn…), sửa từng ô, thêm dòng y'' và điểm uốn, khoảng gạch bỏ, chạm đúp để sửa lại",
-    "Studio đồ thị hàm số: một hoặc hai hàm, tự căn khung nhìn, điểm đặc biệt, tiệm cận, giao điểm, tô diện tích, chạm đúp để sửa",
-    "thêm bảng xét dấu và bảng biến thiên không viền (BXD1, BXD2, BBT1, BBT2)",
-    "giao điểm và hạ vuông góc chỉ hiện điểm",
-    "đoạn thẳng có nét đứt",
-    "bảng Hình vẽ gọn hơn",
-    "viết bằng bút mượt hơn"
+    "Chép/cắt cả nét lẫn ảnh, nhớ 5 lần chép gần nhất",
+    "Ấn giữ chỗ trống (công cụ Chọn vùng) mở menu: Dán tại đây, chọn lại mục chép cũ, Chèn ảnh / Đặt đồ thị / Đặt bảng biến thiên ngay tại điểm chạm, Lưu vào Kho mẫu",
+    "Khung ảnh có thêm nút Chép và Cắt",
+    "Giao diện mới Ivory Glass: thanh công cụ 4 khoang, chỉ báo đã lưu, ô nhảy trang n/N",
+    "Thư viện có mục Gần đây, Yêu thích",
+    "Thêm trang nhanh và Kho giấy mới, chỉnh độ đậm dòng kẻ giấy (Nhạt/Vừa/Đậm)",
+    "Cửa sổ Đồ thị có 3 tab: hàm số, miền nghiệm BPT, Oxyz"
   ],
   "date": "2026-11-13"
 }
