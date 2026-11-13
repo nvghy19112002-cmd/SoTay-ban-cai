@@ -1,16 +1,16 @@
 {
-  "version": "0.3.22",
-  "versionCode": 3022,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.22/SoTayToan-0.3.22.apk",
-  "sha256": "842764a4865dc351f206b903a25f0318cbe85af00cb528b33a56a8318ffb76d3",
+  "version": "0.3.23",
+  "versionCode": 3023,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.23/SoTayToan-0.3.23.apk",
+  "sha256": "12bde1ef632c97047fedd98aac156fcd351c9b37eacaaef45c5219043924cdaf",
   "notes": [
-    "Thước tắt chế độ hình học khi dùng",
-    "Bảng xét dấu để trống",
-    "Chọn ảnh có khung rõ, kéo ảnh thấy ảnh chuyển động theo bút, thanh thao tác ảnh gọn hai hàng",
-    "Bộ chọn màu kiểu bảng màu thay ô nhiều màu",
-    "Bỏ nút Thư viện, nút Quay về của máy tự đóng bảng hoặc về Thư viện",
-    "Chóp tứ giác đều cân đối hai mặt bên, chóp đáy thang không còn mặt hẹp, icon chóp đáy thang đẹp hơn",
-    "Chạm đỉnh của hình hiện nhắc hình cứng"
+    "Bảng biến thiên tự lập: gõ hàm số là tự lập bảng (đa thức, phân thức, sin, ln, căn…), sửa từng ô, thêm dòng y'' và điểm uốn, khoảng gạch bỏ, chạm đúp để sửa lại",
+    "Studio đồ thị hàm số: một hoặc hai hàm, tự căn khung nhìn, điểm đặc biệt, tiệm cận, giao điểm, tô diện tích, chạm đúp để sửa",
+    "thêm bảng xét dấu và bảng biến thiên không viền (BXD1, BXD2, BBT1, BBT2)",
+    "giao điểm và hạ vuông góc chỉ hiện điểm",
+    "đoạn thẳng có nét đứt",
+    "bảng Hình vẽ gọn hơn",
+    "viết bằng bút mượt hơn"
   ],
   "date": "2026-11-13"
 }
