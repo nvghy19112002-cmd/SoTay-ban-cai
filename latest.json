@@ -1,14 +1,16 @@
 {
-  "version": "0.3.20",
-  "versionCode": 3020,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.20/SoTayToan-0.3.20.apk",
-  "sha256": "603d9df89c93fbb1462966b8ea6e6e067a133d73485990dec6345200926b7874",
+  "version": "0.3.21",
+  "versionCode": 3021,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.21/SoTayToan-0.3.21.apk",
+  "sha256": "4a933765b0f5feaf4e2719067ae37fc71c4f622dcd123c1aa904cbcf957bd5ff",
   "notes": [
-    "Cột trang mới gọn như Samsung Notes: số trang, Chọn, dấu trang, mục lục, lưới 2 cột và ô dấu cộng thêm trang",
-    "Xuất ảnh nhiều trang ra từng ảnh rời và chia sẻ cùng lúc",
-    "Điểm to và rõ hơn kiểu GeoGebra, gợi ý tên điểm còn 3 và có ô gõ tên khác",
-    "Bỏ dải chữ hướng dẫn của công cụ Hình học",
-    "Khung chọn ôm sát đối tượng, thanh thao tác sáng gọn: Xoá màu đỏ, cỡ điểm bằng thanh trượt"
+    "Màn hình Tổng quan trang và Xuất toàn màn hình: chọn nhiều trang, xuất PDF hoặc ảnh, thêm, nhân bản, sao chép, dán, xoá, đánh dấu, kéo-thả đổi thứ tự",
+    "Bảng Hình vẽ và Dựng hình có độ dày nét và bộ màu",
+    "Thêm Bảng xét dấu, Bảng biến thiên, Cung bằng nhau, Tia đối, Đa giác, Cung qua 3 điểm, Số đo góc, Đối xứng trục, Đối xứng tâm, Tịnh tiến",
+    "Chọn vùng giữa hình đúng với hình lõm",
+    "Vẽ lại các khối: Chóp tứ giác, Chóp SA vuông đáy (thêm mẫu đáy tứ giác thường), Chóp đáy bình hành, Chóp đáy thang vuông (thêm kiểu đáy gấp đôi), Lăng trụ xiên, Mặt phẳng đổi được tên",
+    "Nhãn đỉnh tự tránh đường, mặt không bị hẹp",
+    "Bút có thêm kiểu đường gạch dài, chấm, chấm gạch"
   ],
   "date": "2026-11-13"
 }
