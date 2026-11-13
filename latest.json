@@ -1,22 +1,15 @@
 {
-  "version": "0.3.18",
-  "versionCode": 3018,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.18/SoTayToan-0.3.18.apk",
-  "sha256": "72522f9125868027fce9ad59014cc98772201b71950706871040d8644eb8f3f3",
+  "version": "0.3.19",
+  "versionCode": 3019,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.19/SoTayToan-0.3.19.apk",
+  "sha256": "9de33e7fd504c0f7256d207aaddc94eddb7d2c73d5667420d4c0b6a7c9b25d74",
   "notes": [
-    "Sửa hình đã vẽ: chạm đúp vào hình để đổi tên đỉnh, nét đứt, phóng to thu nhỏ",
-    "Vòng sáng báo điểm sắp hút khi rê bút gần",
-    "Dựng góc và tâm tam giác chỉ cần chạm cạnh hoặc chạm vào trong tam giác",
-    "Chạm lần 1 chọn cả hình, chạm lần 2 chọn riêng một cạnh",
-    "Phóng to hình giữ nguyên nét mảnh và cỡ chữ",
-    "Kéo vùng chọn sang trang kề",
-    "Gạch nguệch ngoạc đè chữ viết tay để xoá (có công tắc tắt)",
-    "Giữ bút ở chỗ trống hiện nút Dán tại đây",
-    "Nắn đoạn thẳng xong vẫn kéo dây thun được",
-    "Ảnh thu nhỏ và bìa sổ hiện cả nền PDF và ảnh",
-    "Thước parabol dạng giọt nước, compa nhỏ lại, số ở đầu thước thẳng không còn tràn",
-    "Bấm - và + để đổi cỡ dụng cụ",
-    "Điểm nhỏ dễ cầm kéo hơn"
+    "Cột trang mới: chọn nhiều trang rồi Xuất PDF hoặc Xuất ảnh (nhiều ảnh gói thành một tệp zip) và chia sẻ thẳng qua Zalo hay Messenger",
+    "Một bộ màu duy nhất cho cả app, bỏ các giao diện Sáng, Tối, Sổ da, Bảng phấn",
+    "Chạm đỉnh, cạnh hoặc vùng giữa hình là chọn cả hình",
+    "Thanh thao tác theo từng loại: điểm có Đổi tên và đổi cỡ, hình khép kín có Tô nền, màu gọn một ô",
+    "Khung chọn điểm ôm sát hơn",
+    "Bỏ thước parabol, dùng thước cong QL-01"
   ],
   "date": "2026-11-13"
 }
