@@ -1,16 +1,15 @@
 {
-  "version": "0.3.29",
-  "versionCode": 3029,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.29/SoTayToan-0.3.29.apk",
-  "sha256": "31a05174de224c511d6a2b610aaf24d3505467e84c86b6c2feec002e36f13119",
+  "version": "0.3.31",
+  "versionCode": 3031,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.31/SoTayToan-0.3.31.apk",
+  "sha256": "f79b4d7656ba529b8dd87bbbeeefad48e3b68d77ae7e2214f6d9a27f771a0890",
   "notes": [
-    "Giấy kiểu mới cho sổ mới: có vùng tiêu đề trống ở trên, lề trái hồng nhạt, đường kẻ mờ và mảnh đúng 1 điểm ảnh",
-    "thêm giấy Lưới tam giác 3D cho hình không gian và giấy Cornell chuẩn",
-    "trong Kho giấy có công tắc Kiểu giấy Mới hoặc Cũ (sổ cũ giữ nguyên dòng kẻ nên không lệch chữ đã viết)",
-    "Nét chữ đẹp hơn: tự khử móc câu ở đầu và cuối nét, làm êm đường nét nhưng giữ nguyên đỉnh nhọn của chữ số, dấu căn, chữ v, u",
-    "bút bi có nhấn nhá nhẹ và đuôi thon, bút máy thanh đậm cân đối hơn",
-    "Thư viện gọn hơn: chỉ một nút tạo sổ, cây thư mục sạch với menu ba chấm, danh sách sổ thấp hơn, xoay dọc máy có ngăn kéo thư mục",
-    "Chống tì tay bớt chặn nhầm ngón cái khi cuộn trang"
+    "Miền tô có lỗ đi đúng khi dời, chèn khoảng trống, dán mẫu",
+    "Tô miền nhanh hơn ở lần chạm sau trên đề PDF",
+    "Phóng to đề PDF tốn ít bộ nhớ hơn",
+    "Nét khuất tự động đúng cả khi xoay hình, đoạn xuyên lòng khối, và cho lăng trụ đứng, chóp có cạnh vuông góc đáy",
+    "Hoàn tác 2 ngón: chờ 0,65 giây sau khi viết (trước 2 giây), hai ngón phải cách nhau vừa phải",
+    "Kèm bản 0.3.30: phóng to không mờ, khay bút nhanh, chế độ Tập trung, Tô miền, tìm chữ trong đề PDF, xuất riêng một sổ"
   ],
   "date": "2026-11-14"
 }
