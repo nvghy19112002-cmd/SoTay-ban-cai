@@ -1,23 +1,16 @@
 {
-  "version": "0.3.28",
-  "versionCode": 3028,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.28/SoTayToan-0.3.28.apk",
-  "sha256": "47f14bea1fe92726df1eb4354f1025a231e33fd9fdaeb92a4c23d97f66de7994",
+  "version": "0.3.29",
+  "versionCode": 3029,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.29/SoTayToan-0.3.29.apk",
+  "sha256": "31a05174de224c511d6a2b610aaf24d3505467e84c86b6c2feec002e36f13119",
   "notes": [
-    "Đã bỏ bút gốc Android (nét viết dùng cách web đã làm mượt hơn: bớt giật ở chỗ cua như đáy chữ u, tẩy nhanh hơn)",
-    "Chống tì tay: tay tì khi viết không còn làm trôi trang, hoàn tác nhầm hay phóng nhầm",
-    "thêm công tắc chỉ cuộn bằng 2 ngón trong Cài đặt",
-    "Ngón tay viết ngang hàng S Pen (hai ngón để cuộn và phóng), chạm đúp vào đồ thị hoặc bảng biến thiên để chỉnh sửa",
-    "Thanh trên gọn hơn: nút Chèn (ảnh, PDF) và nút Xuất có mũi tên, bỏ nhãn Đã lưu và số phần trăm phóng",
-    "Chế độ tập trung không còn nút đè lên giấy",
-    "Menu ☰ gọn với 3 mẫu giấy, sửa lỗi biểu tượng đè lên menu",
-    "Giấy có màu đường kẻ riêng (có màu đen) và 5 khổ giấy (A4 dọc, A4 ngang, máy tính bảng, B5, trình chiếu)",
-    "Chèn khoảng trống nâng cấp: trang tự dài thêm, tách đề PDF và ảnh để viết lời giải, nút nhanh +3 +6 +12 dòng, gọi từ menu ấn giữ",
-    "Hệ trục Oxy bỏ vạch thừa ở đầu mũi tên, mũi tên đẹp hơn",
-    "Thư mục: nút + luôn tạo thư mục ở ngoài cùng, có thêm thư mục con",
-    "Thư viện giao diện sáng, rõ chữ",
-    "Phóng to thu nhỏ mượt hơn",
-    "Bàn phím Toán riêng ở cửa sổ Đồ thị và Bảng biến thiên"
+    "Giấy kiểu mới cho sổ mới: có vùng tiêu đề trống ở trên, lề trái hồng nhạt, đường kẻ mờ và mảnh đúng 1 điểm ảnh",
+    "thêm giấy Lưới tam giác 3D cho hình không gian và giấy Cornell chuẩn",
+    "trong Kho giấy có công tắc Kiểu giấy Mới hoặc Cũ (sổ cũ giữ nguyên dòng kẻ nên không lệch chữ đã viết)",
+    "Nét chữ đẹp hơn: tự khử móc câu ở đầu và cuối nét, làm êm đường nét nhưng giữ nguyên đỉnh nhọn của chữ số, dấu căn, chữ v, u",
+    "bút bi có nhấn nhá nhẹ và đuôi thon, bút máy thanh đậm cân đối hơn",
+    "Thư viện gọn hơn: chỉ một nút tạo sổ, cây thư mục sạch với menu ba chấm, danh sách sổ thấp hơn, xoay dọc máy có ngăn kéo thư mục",
+    "Chống tì tay bớt chặn nhầm ngón cái khi cuộn trang"
   ],
   "date": "2026-11-14"
 }
