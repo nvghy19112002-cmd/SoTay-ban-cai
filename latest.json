@@ -1,15 +1,23 @@
 {
-  "version": "0.3.27",
-  "versionCode": 3027,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.27/SoTayToan-0.3.27.apk",
-  "sha256": "548874d4de49001c275f07f3223f43b4b7d0992b19751c4bd7e46ad6d8c030ed",
+  "version": "0.3.28",
+  "versionCode": 3028,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.28/SoTayToan-0.3.28.apk",
+  "sha256": "47f14bea1fe92726df1eb4354f1025a231e33fd9fdaeb92a4c23d97f66de7994",
   "notes": [
-    "Nét bút S Pen mượt hơn ở chỗ cua chậm (đáy chữ u), bớt giật đầu nét",
-    "Tẩy trên trang nhiều chữ nhanh hơn (chỉ vẽ lại chỗ vừa tẩy)",
-    "Thử nghiệm Bút gốc Android (bật trong menu …): nét vẽ thẳng lên màn hình, độ trễ thấp",
-    "Bảng đo bút thêm số đo khựng khung hình",
-    "Cửa sổ Đồ thị và Bảng biến thiên có bàn phím Toán riêng: nhập được số âm, ±, ∞, sin, √… không bị bộ gõ tiếng Việt làm sai",
-    "Bàn phím hệ thống không còn che cửa sổ"
+    "Đã bỏ bút gốc Android (nét viết dùng cách web đã làm mượt hơn: bớt giật ở chỗ cua như đáy chữ u, tẩy nhanh hơn)",
+    "Chống tì tay: tay tì khi viết không còn làm trôi trang, hoàn tác nhầm hay phóng nhầm",
+    "thêm công tắc chỉ cuộn bằng 2 ngón trong Cài đặt",
+    "Ngón tay viết ngang hàng S Pen (hai ngón để cuộn và phóng), chạm đúp vào đồ thị hoặc bảng biến thiên để chỉnh sửa",
+    "Thanh trên gọn hơn: nút Chèn (ảnh, PDF) và nút Xuất có mũi tên, bỏ nhãn Đã lưu và số phần trăm phóng",
+    "Chế độ tập trung không còn nút đè lên giấy",
+    "Menu ☰ gọn với 3 mẫu giấy, sửa lỗi biểu tượng đè lên menu",
+    "Giấy có màu đường kẻ riêng (có màu đen) và 5 khổ giấy (A4 dọc, A4 ngang, máy tính bảng, B5, trình chiếu)",
+    "Chèn khoảng trống nâng cấp: trang tự dài thêm, tách đề PDF và ảnh để viết lời giải, nút nhanh +3 +6 +12 dòng, gọi từ menu ấn giữ",
+    "Hệ trục Oxy bỏ vạch thừa ở đầu mũi tên, mũi tên đẹp hơn",
+    "Thư mục: nút + luôn tạo thư mục ở ngoài cùng, có thêm thư mục con",
+    "Thư viện giao diện sáng, rõ chữ",
+    "Phóng to thu nhỏ mượt hơn",
+    "Bàn phím Toán riêng ở cửa sổ Đồ thị và Bảng biến thiên"
   ],
   "date": "2026-11-14"
 }
