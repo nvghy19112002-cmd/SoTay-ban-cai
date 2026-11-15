@@ -1,17 +1,15 @@
 {
-  "version": "0.3.32",
-  "versionCode": 3032,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.32/SoTayToan-0.3.32.apk",
-  "sha256": "04af5eea153664876fd8b724035e8dba39b6b984505820bb72fb1fb650e99257",
+  "version": "0.3.33",
+  "versionCode": 3033,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.33/SoTayToan-0.3.33.apk",
+  "sha256": "eec624a09e057b7cecbbc4d2e4367fd68eefda56d7708caef353335a53ca55c4",
   "notes": [
-    "Giao diện mới Học Giả với 3 bộ màu Đỏ mận, Lục thẫm, Đêm chọn ở Cài đặt",
-    "Thư viện có trang chủ (Tiếp tục viết, Thư mục, Sổ gần đây) và thẻ sổ gọn hơn, bìa rõ nét hơn",
-    "thanh công cụ và bảng Bút gọn lại, màu mực lên đầu bảng",
-    "menu ☰ chia nhóm có Đến trang và Thu phóng nhanh",
-    "Cài đặt làm lại",
-    "tab sổ tối đa 5 tự co giãn",
-    "Nhập PDF khi đang mở sổ thì chèn vào chính sổ đó",
-    "gồm cả đợt cố vấn 0.3.32 (chống mất chữ khi phóng, bút, tô miền, khung xương 3D) và bảng Hình vẽ mới"
+    "Menu ☰ gom gọn: Thêm trang, Chèn ảnh/PDF, Xuất, Viết/Đọc, Khay bút nằm trong menu hai cột, thanh trên chỉ còn ít nút",
+    "ấn giữ trên trang chỉ còn nút Dán",
+    "bỏ chấm tròn đỏ khi bút lơ lửng",
+    "bìa sổ và ảnh xem trước khi chèn hình rõ nét hơn (bìa cũ tự vẽ lại khi mở Thư viện)",
+    "Thùng rác nằm ngay trong Thư viện",
+    "chọn nhiều sổ có Chọn tất cả, Yêu thích, Di chuyển, Xoá, Khôi phục, Xoá hẳn, Dọn sạch"
   ],
   "date": "2026-11-15"
 }
