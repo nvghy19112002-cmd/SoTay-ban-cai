@@ -1,15 +1,12 @@
 {
-  "version": "0.3.33",
-  "versionCode": 3033,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.33/SoTayToan-0.3.33.apk",
-  "sha256": "eec624a09e057b7cecbbc4d2e4367fd68eefda56d7708caef353335a53ca55c4",
+  "version": "0.3.34",
+  "versionCode": 3034,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.34/SoTayToan-0.3.34.apk",
+  "sha256": "47bf77a97947c102a4b30bea96d92c1aee54231b10faea26f1c1e7e5e5b875a1",
   "notes": [
-    "Menu ☰ gom gọn: Thêm trang, Chèn ảnh/PDF, Xuất, Viết/Đọc, Khay bút nằm trong menu hai cột, thanh trên chỉ còn ít nút",
-    "ấn giữ trên trang chỉ còn nút Dán",
-    "bỏ chấm tròn đỏ khi bút lơ lửng",
-    "bìa sổ và ảnh xem trước khi chèn hình rõ nét hơn (bìa cũ tự vẽ lại khi mở Thư viện)",
-    "Thùng rác nằm ngay trong Thư viện",
-    "chọn nhiều sổ có Chọn tất cả, Yêu thích, Di chuyển, Xoá, Khôi phục, Xoá hẳn, Dọn sạch"
+    "Sửa nút ba chấm ở thẻ sổ: menu hiện đúng chỗ, tự lật lên khi sát đáy màn hình, nút to hơn dễ chạm bằng tay và S Pen",
+    "làm lại màn Chọn trang để xuất: đầu trang gọn, thanh thao tác một hàng chia nhóm, ô tích ở góc trang",
+    "tab sổ tối đa 5: khi đủ 5 tab bấm dấu cộng sẽ hỏi chọn sổ để đóng rồi mở sổ mới, mở sổ từ Thư viện khi đủ tab thì báo tab nào bị đóng"
   ],
   "date": "2026-11-15"
 }
