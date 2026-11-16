@@ -1,14 +1,15 @@
 {
-  "version": "0.3.43",
-  "versionCode": 3043,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.43/SoTayToan-0.3.43.apk",
-  "sha256": "0c3074db40525e18d0362144de96df79797de858df2b91ca38c01856bef89f89",
+  "version": "0.3.44",
+  "versionCode": 3044,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.44/SoTayToan-0.3.44.apk",
+  "sha256": "8fdff5b62ddb14629ee6d2773bcda67334a0fb7ddda10e0250ce8ab9072f5e63",
   "notes": [
-    "Xoay 3D: kéo trực tiếp trên khối bằng bút hoặc một ngón, hai ngón vẫn cuộn trang",
-    "bỏ chế độ Tự do, nghiêng giới hạn để đỉnh không lộn ngược",
-    "Trải hình động ngay trên trang (tô màu từng mặt, không dẹt thành vạch, không lật gương), thêm nút Gấp lại và Đặt bản trải cạnh khối",
-    "điểm O, đường cao SO, đường chéo xoay theo khối",
-    "danh mục hình gọn hơn, chóp đáy hình thang theo mẫu"
+    "Chóp cụt và nón cụt có nút Khôi phục chóp/nón: các cạnh bên từ từ kéo dài tới đỉnh S, tô nền chóp nhỏ, thêm Đường cao SO kèm góc vuông, có nút Phát lại, chạm chọn hình đã chốt vẫn bật lại được",
+    "thêm hình chóp cụt tam giác",
+    "chóp tam giác đều vẽ cùng kiểu chóp tam giác (trải hình đúng)",
+    "chóp đáy hình thang có bản SA vuông góc đáy",
+    "nét khuất tự đổi liền/đứt khi kéo đỉnh",
+    "thanh đặt tên đỉnh không còn đè thanh nút"
   ],
   "date": "2026-11-16"
 }
