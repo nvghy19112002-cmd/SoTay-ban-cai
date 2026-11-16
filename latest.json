@@ -1,14 +1,14 @@
 {
-  "version": "0.3.36",
-  "versionCode": 3036,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.36/SoTayToan-0.3.36.apk",
-  "sha256": "8b5a721e91e1cea9d8b2dad18f249a7734488815ca4b2b127bde792e81f7641c",
+  "version": "0.3.37",
+  "versionCode": 3037,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.37/SoTayToan-0.3.37.apk",
+  "sha256": "ad82c04db840970683add5cce96aa8ab608893769047312c06f906a0c10fafcb",
   "notes": [
-    "Trình chiếu cho Tab S9: cắm HDMI/Smart View thì TV chỉ hiện trang giấy, Tablet giữ nguyên thanh công cụ",
-    "có nút Đóng băng hình trên TV",
-    "chọn tràn ngang 16:9 hoặc thấy trọn trang",
-    "chế độ Chiếu qua app (Meet/Zoom/Zalo) ẩn thanh công cụ, khay bút gần tàng hình, hộp thoại thu về góc, vòng sáng con trỏ S Pen",
-    "nút Trình chiếu ở dòng trên cùng"
+    "Cảm ứng: chạm đỉnh/cạnh hình nháp bằng ngón tay dễ trúng hơn (vùng chạm gấp đôi bút), nút bảng Hình vẽ cao tối thiểu 44px",
+    "Hình mẫu SGK: nêm cắt từ hình trụ có R, h, α, lăng trụ cụt, nón/trụ/cầu/chỏm cầu hiện R và h, bát diện đều S.ABCD.S', quạt có A B, elip có a b, parabol có M",
+    "Thanh công cụ: công tắc Nét khuất, tuỳ chọn riêng của hình ngay trên thanh hình nháp, nhãn đỉnh sẵn cho khối 3D, dải 24 tên đỉnh",
+    "Dựng hình: góc 90° tự thành ô vuông, chia đoạn thành n phần, ô gõ độ dài đoạn và bán kính đường tròn",
+    "Sửa: nét khuất tự động chạy được với khối vừa đặt, giữ tên đỉnh khi đổi tuỳ chọn riêng"
   ],
   "date": "2026-11-16"
 }
