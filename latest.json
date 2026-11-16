@@ -1,14 +1,14 @@
 {
-  "version": "0.3.37",
-  "versionCode": 3037,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.37/SoTayToan-0.3.37.apk",
-  "sha256": "ad82c04db840970683add5cce96aa8ab608893769047312c06f906a0c10fafcb",
+  "version": "0.3.41",
+  "versionCode": 3041,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.41/SoTayToan-0.3.41.apk",
+  "sha256": "1eb05a633d76adbb3043b25256a1ba057b35ee28b48ebb9b6e9862e49a5b5c44",
   "notes": [
-    "Cảm ứng: chạm đỉnh/cạnh hình nháp bằng ngón tay dễ trúng hơn (vùng chạm gấp đôi bút), nút bảng Hình vẽ cao tối thiểu 44px",
-    "Hình mẫu SGK: nêm cắt từ hình trụ có R, h, α, lăng trụ cụt, nón/trụ/cầu/chỏm cầu hiện R và h, bát diện đều S.ABCD.S', quạt có A B, elip có a b, parabol có M",
-    "Thanh công cụ: công tắc Nét khuất, tuỳ chọn riêng của hình ngay trên thanh hình nháp, nhãn đỉnh sẵn cho khối 3D, dải 24 tên đỉnh",
-    "Dựng hình: góc 90° tự thành ô vuông, chia đoạn thành n phần, ô gõ độ dài đoạn và bán kính đường tròn",
-    "Sửa: nét khuất tự động chạy được với khối vừa đặt, giữ tên đỉnh khi đổi tuỳ chọn riêng"
+    "Chỏm cầu và hai hình nêm làm lại theo mẫu app cũ và linh hoạt hơn: nút Thành phần trên thanh hình nháp để hiện hay ẩn từng đoạn, chấm, chữ, mảng tô, đổi góc α, độ cao chỏm, vị trí thiết diện",
+    "Tự tăng tên điểm (A, B, C nối tiếp) cho điểm và đoạn thẳng, mặc định bật",
+    "Kéo dài qua điểm (cm) cho tia và đường thẳng",
+    "thêm hình tam giác vuông cân, chóp tam giác đều, tứ diện đều, tứ diện vuông",
+    "sửa bảng Trình chiếu bị cắt chữ và thêm công tắc tổng (0.3.40)"
   ],
   "date": "2026-11-16"
 }
