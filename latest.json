@@ -1,12 +1,13 @@
 {
-  "version": "0.3.34",
-  "versionCode": 3034,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.34/SoTayToan-0.3.34.apk",
-  "sha256": "47bf77a97947c102a4b30bea96d92c1aee54231b10faea26f1c1e7e5e5b875a1",
+  "version": "0.3.35",
+  "versionCode": 3035,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.35/SoTayToan-0.3.35.apk",
+  "sha256": "181cc764734b1021e46bf42e70ed8ab8934042d4c3e6b7a562c7700e698b90e6",
   "notes": [
-    "Sửa nút ba chấm ở thẻ sổ: menu hiện đúng chỗ, tự lật lên khi sát đáy màn hình, nút to hơn dễ chạm bằng tay và S Pen",
-    "làm lại màn Chọn trang để xuất: đầu trang gọn, thanh thao tác một hàng chia nhóm, ô tích ở góc trang",
-    "tab sổ tối đa 5: khi đủ 5 tab bấm dấu cộng sẽ hỏi chọn sổ để đóng rồi mở sổ mới, mở sổ từ Thư viện khi đủ tab thì báo tab nào bị đóng"
+    "Nét mực tự nhiên mà vẫn đẹp với chữ xấu: khử run tay ngay lúc viết, chữ nhỏ không bị co, góc nhọn (v, √, 4, 7) vẫn sắc",
+    "thanh Độ mượt dùng được hết 0-100%",
+    "nhấc bút không còn bị giật đổi hình",
+    "viết xong lướt trang bằng ngón tay được ngay, không còn khựng khi S Pen còn lơ lửng"
   ],
-  "date": "2026-11-15"
+  "date": "2026-11-16"
 }
