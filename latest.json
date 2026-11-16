@@ -1,13 +1,14 @@
 {
-  "version": "0.3.35",
-  "versionCode": 3035,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.35/SoTayToan-0.3.35.apk",
-  "sha256": "181cc764734b1021e46bf42e70ed8ab8934042d4c3e6b7a562c7700e698b90e6",
+  "version": "0.3.36",
+  "versionCode": 3036,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.36/SoTayToan-0.3.36.apk",
+  "sha256": "8b5a721e91e1cea9d8b2dad18f249a7734488815ca4b2b127bde792e81f7641c",
   "notes": [
-    "Nét mực tự nhiên mà vẫn đẹp với chữ xấu: khử run tay ngay lúc viết, chữ nhỏ không bị co, góc nhọn (v, √, 4, 7) vẫn sắc",
-    "thanh Độ mượt dùng được hết 0-100%",
-    "nhấc bút không còn bị giật đổi hình",
-    "viết xong lướt trang bằng ngón tay được ngay, không còn khựng khi S Pen còn lơ lửng"
+    "Trình chiếu cho Tab S9: cắm HDMI/Smart View thì TV chỉ hiện trang giấy, Tablet giữ nguyên thanh công cụ",
+    "có nút Đóng băng hình trên TV",
+    "chọn tràn ngang 16:9 hoặc thấy trọn trang",
+    "chế độ Chiếu qua app (Meet/Zoom/Zalo) ẩn thanh công cụ, khay bút gần tàng hình, hộp thoại thu về góc, vòng sáng con trỏ S Pen",
+    "nút Trình chiếu ở dòng trên cùng"
   ],
   "date": "2026-11-16"
 }
