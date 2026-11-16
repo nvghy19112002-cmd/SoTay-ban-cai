@@ -1,14 +1,15 @@
 {
-  "version": "0.3.41",
-  "versionCode": 3041,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.41/SoTayToan-0.3.41.apk",
-  "sha256": "1eb05a633d76adbb3043b25256a1ba057b35ee28b48ebb9b6e9862e49a5b5c44",
+  "version": "0.3.42",
+  "versionCode": 3042,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.42/SoTayToan-0.3.42.apk",
+  "sha256": "63e0a41d8794657b2cd32de252688372ca454982607327f492f3ddbedc52f650",
   "notes": [
-    "Chỏm cầu và hai hình nêm làm lại theo mẫu app cũ và linh hoạt hơn: nút Thành phần trên thanh hình nháp để hiện hay ẩn từng đoạn, chấm, chữ, mảng tô, đổi góc α, độ cao chỏm, vị trí thiết diện",
-    "Tự tăng tên điểm (A, B, C nối tiếp) cho điểm và đoạn thẳng, mặc định bật",
-    "Kéo dài qua điểm (cm) cho tia và đường thẳng",
-    "thêm hình tam giác vuông cân, chóp tam giác đều, tứ diện đều, tứ diện vuông",
-    "sửa bảng Trình chiếu bị cắt chữ và thêm công tắc tổng (0.3.40)"
+    "Sửa chọn vùng bỏ sót cạnh khi kéo hình đã tô",
+    "hết dải đậm nhạt của màu tô khi zoom và bớt khựng khi chụm",
+    "trục đồ thị dài hơn mốc cuối",
+    "liên kết bộ nhớ tạm: dán ảnh S Pen cắt, chép ảnh ra ngoài",
+    "nút Độ dài đặt số cho chữ R, h, a, b",
+    "Xoay 3D (trackball, 4 góc nhìn), tách mặt phẳng, trải hình, tách thiết diện"
   ],
   "date": "2026-11-16"
 }
