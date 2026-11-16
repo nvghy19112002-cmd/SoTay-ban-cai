@@ -1,15 +1,14 @@
 {
-  "version": "0.3.42",
-  "versionCode": 3042,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.42/SoTayToan-0.3.42.apk",
-  "sha256": "63e0a41d8794657b2cd32de252688372ca454982607327f492f3ddbedc52f650",
+  "version": "0.3.43",
+  "versionCode": 3043,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.43/SoTayToan-0.3.43.apk",
+  "sha256": "0c3074db40525e18d0362144de96df79797de858df2b91ca38c01856bef89f89",
   "notes": [
-    "Sửa chọn vùng bỏ sót cạnh khi kéo hình đã tô",
-    "hết dải đậm nhạt của màu tô khi zoom và bớt khựng khi chụm",
-    "trục đồ thị dài hơn mốc cuối",
-    "liên kết bộ nhớ tạm: dán ảnh S Pen cắt, chép ảnh ra ngoài",
-    "nút Độ dài đặt số cho chữ R, h, a, b",
-    "Xoay 3D (trackball, 4 góc nhìn), tách mặt phẳng, trải hình, tách thiết diện"
+    "Xoay 3D: kéo trực tiếp trên khối bằng bút hoặc một ngón, hai ngón vẫn cuộn trang",
+    "bỏ chế độ Tự do, nghiêng giới hạn để đỉnh không lộn ngược",
+    "Trải hình động ngay trên trang (tô màu từng mặt, không dẹt thành vạch, không lật gương), thêm nút Gấp lại và Đặt bản trải cạnh khối",
+    "điểm O, đường cao SO, đường chéo xoay theo khối",
+    "danh mục hình gọn hơn, chóp đáy hình thang theo mẫu"
   ],
   "date": "2026-11-16"
 }
