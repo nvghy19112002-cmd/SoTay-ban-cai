@@ -1,15 +1,16 @@
 {
-  "version": "0.3.44",
-  "versionCode": 3044,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.44/SoTayToan-0.3.44.apk",
-  "sha256": "8fdff5b62ddb14629ee6d2773bcda67334a0fb7ddda10e0250ce8ab9072f5e63",
+  "version": "0.3.45",
+  "versionCode": 3045,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.45/SoTayToan-0.3.45.apk",
+  "sha256": "b94d89d6b06cc0582298233bd2923f3f08b0dfa6e40bc80eabe8a4c3066d9883",
   "notes": [
-    "Chóp cụt và nón cụt có nút Khôi phục chóp/nón: các cạnh bên từ từ kéo dài tới đỉnh S, tô nền chóp nhỏ, thêm Đường cao SO kèm góc vuông, có nút Phát lại, chạm chọn hình đã chốt vẫn bật lại được",
-    "thêm hình chóp cụt tam giác",
-    "chóp tam giác đều vẽ cùng kiểu chóp tam giác (trải hình đúng)",
-    "chóp đáy hình thang có bản SA vuông góc đáy",
-    "nét khuất tự đổi liền/đứt khi kéo đỉnh",
-    "thanh đặt tên đỉnh không còn đè thanh nút"
+    "Bút S Pen viết được trên ảnh đang chọn",
+    "cận tích phân nhập được e và exp(1), có phím e",
+    "mở lại bảng biến thiên còn nguyên hàm và vẽ kèm đồ thị được",
+    "sửa Nhân bản hình không còn dính chung với hình gốc",
+    "chóp cụt và nón cụt lưu trạng thái khôi phục",
+    "app dùng ít bộ nhớ hơn khi mở nhiều ảnh và PDF",
+    "chân compa dài hơn"
   ],
-  "date": "2026-11-16"
+  "date": "2026-11-17"
 }
