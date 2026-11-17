@@ -1,14 +1,10 @@
 {
-  "version": "0.3.46",
-  "versionCode": 3046,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.46/SoTayToan-0.3.46.apk",
-  "sha256": "5cae556b348f3df63134489883dca9da1dde157edf571eb097dfd03bc24cb6b0",
+  "version": "0.3.47",
+  "versionCode": 3047,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.47/SoTayToan-0.3.47.apk",
+  "sha256": "a63651ec78dd5d8c9777caf0c8bd469761a3eb3ec42f9798fc28386a1627f286",
   "notes": [
-    "Giấy kẻ dòng và ô ly: phần trắng đầu trang gọn lại còn một dòng / một ô",
-    "Chống mất nét: nhật ký khẩn cấp tự khôi phục nét nếu app bị tắt đột ngột",
-    "Viết liền quá 10 giây cũng tự lưu một nhịp",
-    "Bút chạm hoặc nhấc quá nhanh không còn làm mất nét",
-    "Xoay 3D và nút Khôi phục / Đường cao cho chóp, chóp cụt, nón cụt hoạt động ngay trên hình đã chốt, có tạm dừng / tiếp tục"
+    "Nét bút bi và bút máy: góc gấp (đáy chữ v, góc số 2, dấu căn) giờ tròn trơn, không còn bị vát xéo hay chĩa mũi nhọn"
   ],
   "date": "2026-11-17"
 }
