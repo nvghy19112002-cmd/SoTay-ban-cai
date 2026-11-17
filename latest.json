@@ -1,12 +1,19 @@
 {
-  "version": "0.3.54",
-  "versionCode": 3054,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.54/SoTayToan-0.3.54.apk",
-  "sha256": "66c13bd0db86dd4141696203bb33eca44ffc4ff992968b8d83cc62348b666a51",
+  "version": "0.3.55",
+  "versionCode": 3055,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.55/SoTayToan-0.3.55.apk",
+  "sha256": "a009ed41dba2b66a7f3f0a9501b504cbad0b204876ee762dfca4c553d685b405",
   "notes": [
-    "Chiếu lên mặt phẳng trên khối 3D: chọn mặt phẳng, phương chiếu (hoặc vuông góc), chiếu từng điểm, tia và điểm ảnh xoay theo khối",
-    "Hình biểu diễn và Đặt bên cạnh cho hình phẳng (cả hình đã chốt từ bản này)",
-    "kéo được mọi điểm của mẫu 2 đoạn song song và tròn thành elip"
+    "Sửa lỗi dữ liệu: Xoay 3D không mất đường cao",
+    "chèn khoảng trống không làm Đồ thị/BBT nhảy",
+    "sao lưu đủ thư mục và kho mẫu",
+    "giữ bản dự phòng tốt",
+    "Sửa lỗi toán: trung tuyến hình biểu diễn, elip bóng nắng, BBT ±∞, tẩy miền tô",
+    "Bút mượt khi phóng to, hết chớp đậm",
+    "Thanh công cụ gọn hơn",
+    "Bút laser 3 mức dày, dịu hơn",
+    "Bộ chọn màu có nút Dùng màu này",
+    "Đường cao/trung tuyến/phân giác: Cả đoạn hoặc Chỉ chân"
   ],
   "date": "2026-11-17"
 }
