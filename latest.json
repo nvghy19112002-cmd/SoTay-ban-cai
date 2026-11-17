@@ -1,17 +1,12 @@
 {
-  "version": "0.3.53",
-  "versionCode": 3053,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.53/SoTayToan-0.3.53.apk",
-  "sha256": "8b1d61c285aa8ddcfec362685a49b02a6f4ce801417b38f044cad454a5efbc55",
+  "version": "0.3.54",
+  "versionCode": 3054,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.54/SoTayToan-0.3.54.apk",
+  "sha256": "66c13bd0db86dd4141696203bb33eca44ffc4ff992968b8d83cc62348b666a51",
   "notes": [
-    "Phép chiếu song song (bóng nắng): kéo mặt trời đổi hướng nắng, kéo A M B, tỉ số hít đúng 1/2 2/3 3/2…, nút AB song song l",
-    "mẫu 2 đoạn song song có Phản ví dụ",
-    "mẫu Hình vuông thành bình hành",
-    "mẫu Tròn thành elip",
-    "bảng Giữ và Không giữ",
-    "Chiếu thử từng bước và tự chạy",
-    "mở lại để sửa",
-    "hình đang dựng và hoạt hình lên TV"
+    "Chiếu lên mặt phẳng trên khối 3D: chọn mặt phẳng, phương chiếu (hoặc vuông góc), chiếu từng điểm, tia và điểm ảnh xoay theo khối",
+    "Hình biểu diễn và Đặt bên cạnh cho hình phẳng (cả hình đã chốt từ bản này)",
+    "kéo được mọi điểm của mẫu 2 đoạn song song và tròn thành elip"
   ],
   "date": "2026-11-17"
 }
