@@ -1,16 +1,14 @@
 {
-  "version": "0.3.45",
-  "versionCode": 3045,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.45/SoTayToan-0.3.45.apk",
-  "sha256": "b94d89d6b06cc0582298233bd2923f3f08b0dfa6e40bc80eabe8a4c3066d9883",
+  "version": "0.3.46",
+  "versionCode": 3046,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.46/SoTayToan-0.3.46.apk",
+  "sha256": "5cae556b348f3df63134489883dca9da1dde157edf571eb097dfd03bc24cb6b0",
   "notes": [
-    "Bút S Pen viết được trên ảnh đang chọn",
-    "cận tích phân nhập được e và exp(1), có phím e",
-    "mở lại bảng biến thiên còn nguyên hàm và vẽ kèm đồ thị được",
-    "sửa Nhân bản hình không còn dính chung với hình gốc",
-    "chóp cụt và nón cụt lưu trạng thái khôi phục",
-    "app dùng ít bộ nhớ hơn khi mở nhiều ảnh và PDF",
-    "chân compa dài hơn"
+    "Giấy kẻ dòng và ô ly: phần trắng đầu trang gọn lại còn một dòng / một ô",
+    "Chống mất nét: nhật ký khẩn cấp tự khôi phục nét nếu app bị tắt đột ngột",
+    "Viết liền quá 10 giây cũng tự lưu một nhịp",
+    "Bút chạm hoặc nhấc quá nhanh không còn làm mất nét",
+    "Xoay 3D và nút Khôi phục / Đường cao cho chóp, chóp cụt, nón cụt hoạt động ngay trên hình đã chốt, có tạm dừng / tiếp tục"
   ],
   "date": "2026-11-17"
 }
