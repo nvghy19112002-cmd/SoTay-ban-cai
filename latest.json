@@ -1,11 +1,12 @@
 {
-  "version": "0.3.49",
-  "versionCode": 3049,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.49/SoTayToan-0.3.49.apk",
-  "sha256": "9fe55271f8367000e13e6060adca3cc68af5e5ee00382d201a96d0d9484c1915",
+  "version": "0.3.50",
+  "versionCode": 3050,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.50/SoTayToan-0.3.50.apk",
+  "sha256": "3603175fcaf6f1cf89ccd682c0ae1b5df1bf3df60415527155e8cf493d228001",
   "notes": [
-    "Trình chiếu: lướt ngón tay mượt hơn, không còn khựng giật",
-    "chữ trên TV vẫn nét sau khi dừng tay"
+    "Trình chiếu: lướt qua chỗ nối hai trang TV trôi liền như trên máy tính bảng, không lật giật",
+    "Chuyển trang khi chiếu nhanh hơn: TV nhớ sẵn trang trước, trang sau và ảnh nền PDF",
+    "Viết khi đang chiếu nhẹ hơn: chỉ gửi nét mới sang TV"
   ],
   "date": "2026-11-17"
 }
