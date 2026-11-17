@@ -1,10 +1,11 @@
 {
-  "version": "0.3.47",
-  "versionCode": 3047,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.47/SoTayToan-0.3.47.apk",
-  "sha256": "a63651ec78dd5d8c9777caf0c8bd469761a3eb3ec42f9798fc28386a1627f286",
+  "version": "0.3.48",
+  "versionCode": 3048,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.48/SoTayToan-0.3.48.apk",
+  "sha256": "ac7e45a42e0af506558cf043231096b90e2d2e4764ff9442d06f59a46dabcd00",
   "notes": [
-    "Nét bút bi và bút máy: góc gấp (đáy chữ v, góc số 2, dấu căn) giờ tròn trơn, không còn bị vát xéo hay chĩa mũi nhọn"
+    "Trình chiếu: chữ và nền PDF trên TV nét hơn, không còn mờ khi phóng to hay trang dài",
+    "Hoàn tác hai ngón: bàn tay tì lên màn hình không còn bị hiểu nhầm là hoàn tác"
   ],
   "date": "2026-11-17"
 }
