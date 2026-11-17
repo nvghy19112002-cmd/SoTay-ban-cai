@@ -1,20 +1,17 @@
 {
-  "version": "0.3.52",
-  "versionCode": 3052,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.52/SoTayToan-0.3.52.apk",
-  "sha256": "e5f150884e6302404029863626ea66bcaa9cfa513bdad65ed9c1f96bfbfb8761",
+  "version": "0.3.53",
+  "versionCode": 3053,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.53/SoTayToan-0.3.53.apk",
+  "sha256": "8b1d61c285aa8ddcfec362685a49b02a6f4ce801417b38f044cad454a5efbc55",
   "notes": [
-    "Nét khuất đúng khi khối bị xoay nghiêng",
-    "chấm/nhãn dựng thêm đi theo khối khi xoay 3D",
-    "tách thiết diện tô mặt cắt + nút Ghép lại",
-    "TV hiện hình đang dựng và hoạt hình khôi phục",
-    "đặt S Pen ra ngoài hình nháp là viết luôn",
-    "Cắt trích đề PDF/ảnh thành ảnh mới",
-    "nút Sang trang sau cho ảnh",
-    "chạm giữ nút hiện gợi ý",
-    "Hướng dẫn sử dụng",
-    "mở lại tab vừa đóng",
-    "nút to hơn khi dùng ngón tay"
+    "Phép chiếu song song (bóng nắng): kéo mặt trời đổi hướng nắng, kéo A M B, tỉ số hít đúng 1/2 2/3 3/2…, nút AB song song l",
+    "mẫu 2 đoạn song song có Phản ví dụ",
+    "mẫu Hình vuông thành bình hành",
+    "mẫu Tròn thành elip",
+    "bảng Giữ và Không giữ",
+    "Chiếu thử từng bước và tự chạy",
+    "mở lại để sửa",
+    "hình đang dựng và hoạt hình lên TV"
   ],
   "date": "2026-11-17"
 }
