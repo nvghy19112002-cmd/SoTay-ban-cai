@@ -1,11 +1,17 @@
 {
-  "version": "0.3.65",
-  "versionCode": 3065,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.65/SoTayToan-0.3.65.apk",
-  "sha256": "2f77b46378665629ff1b9f2973a74f29e422218c4d6c593fb46a33b7c2f026ef",
+  "version": "0.3.66",
+  "versionCode": 3066,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.66/SoTayToan-0.3.66.apk",
+  "sha256": "7ee63c8719279d482da2dbef1f7f4ad3ea760704976cd6978ecb93d3e225f52b",
   "notes": [
-    "Thêm mô phỏng Phòng có nắng (kiểu hoạt hình): khung cửa sổ và vệt nắng, kéo giờ trong ngày, xoay phòng",
-    "mở từ bảng Đồ thị"
+    "Phòng có nắng: Từng bước 7 bước có hoạt ảnh",
+    "Chèn hình vào sổ (kèm bảng đúc rút)",
+    "mặt trời và mũi tên l, nắng lên tường buổi sáng",
+    "kí hiệu cạnh song song, nhãn không đè",
+    "câu hỏi gợi mở, ghim vệt nắng, trung điểm M",
+    "cửa chữ nhật / tròn / tam giác",
+    "Chữ to và chế độ Trình chiếu",
+    "đỡ tốn pin"
   ],
   "date": "2026-11-18"
 }
