@@ -1,11 +1,13 @@
 {
-  "version": "0.3.68",
-  "versionCode": 3068,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.68/SoTayToan-0.3.68.apk",
-  "sha256": "d2f8d9c2952da5f52762b827f8934fac36648c201afeed4a35cc8c7e88cdd8e4",
+  "version": "0.3.69",
+  "versionCode": 3069,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.69/SoTayToan-0.3.69.apk",
+  "sha256": "99dffe1a47a37d2f748f8c79b379532e3d7183df473a892f6b4fc978ef11e135",
   "notes": [
-    "Phòng có nắng: phóng to cửa sổ và vệt nắng (gấp khoảng 2 lần), các nhãn tách nhau rõ ràng, nhãn không bị tràn ra ngoài khung",
-    "mặt trời gần cửa sổ hơn"
+    "Tô miền sát nét, màu dính theo hình",
+    "Cắt thiết diện qua 3 điểm có trình chiếu từng bước và lời giảng, sửa lại được",
+    "Nhập sao lưu an toàn hơn, báo khi mở bản dự phòng",
+    "Sao lưu tự động giữ thêm bản theo ngày và tuần"
   ],
   "date": "2026-11-18"
 }
