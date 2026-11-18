@@ -1,13 +1,12 @@
 {
-  "version": "0.3.56",
-  "versionCode": 3056,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.56/SoTayToan-0.3.56.apk",
-  "sha256": "979925e2cfbced423c49a6f3b479734ab686e33b5cb83a5bd98e0c4b051090d7",
+  "version": "0.3.57",
+  "versionCode": 3057,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.57/SoTayToan-0.3.57.apk",
+  "sha256": "e21c4aef2fc3b48ed6a568517d8b158bdb6a50589dc26e8a8834e73cb2187cff",
   "notes": [
-    "Phép chiếu song song: thêm cảnh Định nghĩa (M, Δ, M'",
-    "nút M ∈ Δ)",
-    "thêm cảnh Đa giác (tam giác, hình thang, chữ nhật, hình thoi)",
-    "kéo ô cam ở góc (α) để nới mặt phẳng, khung tự nở theo"
+    "Phép chiếu song song – Định nghĩa: bài giảng 8 bước với bảng thao tác (Tiếp/Chiếu, Lùi, Tự chạy, Từ đầu)",
+    "hoạt hình vẽ dần và chiếu từ từ, chọn tốc độ Chậm/Vừa/Nhanh",
+    "Chốt giữ đúng bước đang dựng"
   ],
   "date": "2026-11-18"
 }
