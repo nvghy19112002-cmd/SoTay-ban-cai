@@ -1,11 +1,12 @@
 {
-  "version": "0.3.62",
-  "versionCode": 3062,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.62/SoTayToan-0.3.62.apk",
-  "sha256": "96299599ed73240579946a146c78c13c62ac209cb8a585c6aa79c071402e80e2",
+  "version": "0.3.63",
+  "versionCode": 3063,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.63/SoTayToan-0.3.63.apk",
+  "sha256": "5dc045ce123b9fd0c2a07ac2e7031359843d71a91b9d5c62416bed537f9b7497",
   "notes": [
-    "Sửa nhanh: bài Định nghĩa kéo dời được đường thẳng Δ",
-    "mọi ảnh M', N', P', Q', R' luôn nằm trên mặt phẳng (α) khi đổi nắng / kéo"
+    "Sửa kiến thức bài Tính chất: trường hợp hai hình chiếu trùng nhau thuộc tính chất ③ (không phải phản ví dụ)",
+    "viết đúng kí hiệu góc EÔF",
+    "nhắc điều kiện khi đường song song phương chiếu"
   ],
   "date": "2026-11-18"
 }
