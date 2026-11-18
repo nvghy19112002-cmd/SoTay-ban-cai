@@ -1,12 +1,11 @@
 {
-  "version": "0.3.61",
-  "versionCode": 3061,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.61/SoTayToan-0.3.61.apk",
-  "sha256": "da6df3ac61c40462b3bebb30e2af54f1172345bb492d569a5534b336988402d6",
+  "version": "0.3.62",
+  "versionCode": 3062,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.62/SoTayToan-0.3.62.apk",
+  "sha256": "96299599ed73240579946a146c78c13c62ac209cb8a585c6aa79c071402e80e2",
   "notes": [
-    "Hình biểu diễn: mỗi hình 4 bước (đoán, chiếu, cái được giữ, cái không giữ) cho tam giác, vuông, chữ nhật, thoi, bình hành, thang, tròn",
-    "kí hiệu song song, trung tuyến/trọng tâm, đường chéo/tâm",
-    "nút Đổi nắng"
+    "Sửa nhanh: bài Định nghĩa kéo dời được đường thẳng Δ",
+    "mọi ảnh M', N', P', Q', R' luôn nằm trên mặt phẳng (α) khi đổi nắng / kéo"
   ],
   "date": "2026-11-18"
 }
