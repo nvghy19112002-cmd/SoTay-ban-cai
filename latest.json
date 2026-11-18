@@ -1,12 +1,14 @@
 {
-  "version": "0.3.57",
-  "versionCode": 3057,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.57/SoTayToan-0.3.57.apk",
-  "sha256": "e21c4aef2fc3b48ed6a568517d8b158bdb6a50589dc26e8a8834e73cb2187cff",
+  "version": "0.3.58",
+  "versionCode": 3058,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.58/SoTayToan-0.3.58.apk",
+  "sha256": "cf6bb8ac1d3db330058ff03b09192d7b5e24ab41f0498a231c8ba4fbd6ddca6c",
   "notes": [
-    "Phép chiếu song song – Định nghĩa: bài giảng 8 bước với bảng thao tác (Tiếp/Chiếu, Lùi, Tự chạy, Từ đầu)",
-    "hoạt hình vẽ dần và chiếu từ từ, chọn tốc độ Chậm/Vừa/Nhanh",
-    "Chốt giữ đúng bước đang dựng"
+    "Phép chiếu song song – Định nghĩa: 10 mục bám sát SGK",
+    "tích / bỏ tích từng mục tùy ý (tự kèm phần cần thiết)",
+    "mặt trời là một mục riêng",
+    "mặt phẳng hiện mờ dần, nở nhẹ",
+    "nút Hiện hết"
   ],
   "date": "2026-11-18"
 }
