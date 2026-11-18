@@ -1,11 +1,12 @@
 {
-  "version": "0.3.59",
-  "versionCode": 3059,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.59/SoTayToan-0.3.59.apk",
-  "sha256": "600f250143831faeb53ae38e42aaad5ea4934ae2b38fbd0c2b2b355c8b2b7747",
+  "version": "0.3.61",
+  "versionCode": 3061,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.61/SoTayToan-0.3.61.apk",
+  "sha256": "da6df3ac61c40462b3bebb30e2af54f1172345bb492d569a5534b336988402d6",
   "notes": [
-    "Phép chiếu song song: bài giảng Tính chất ① ② ③ ④ kèm phản ví dụ (trùng nhau, độ dài, góc)",
-    "bài giảng Hình biểu diễn (định nghĩa, tam giác, vuông/chữ nhật/thoi/bình hành, hình thang, tròn → elip)"
+    "Hình biểu diễn: mỗi hình 4 bước (đoán, chiếu, cái được giữ, cái không giữ) cho tam giác, vuông, chữ nhật, thoi, bình hành, thang, tròn",
+    "kí hiệu song song, trung tuyến/trọng tâm, đường chéo/tâm",
+    "nút Đổi nắng"
   ],
   "date": "2026-11-18"
 }
