@@ -1,11 +1,11 @@
 {
-  "version": "0.3.64",
-  "versionCode": 3064,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.64/SoTayToan-0.3.64.apk",
-  "sha256": "e52cfdb5463da447b759117200a850b4d4eb20b55542eb623346838f958b4b0c",
+  "version": "0.3.65",
+  "versionCode": 3065,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.65/SoTayToan-0.3.65.apk",
+  "sha256": "2f77b46378665629ff1b9f2973a74f29e422218c4d6c593fb46a33b7c2f026ef",
   "notes": [
-    "Phép chiếu song song: thêm Hoạt động mở đầu Khung cửa sổ và Vệt nắng",
-    "hình nháp hiện đúng màu tô"
+    "Thêm mô phỏng Phòng có nắng (kiểu hoạt hình): khung cửa sổ và vệt nắng, kéo giờ trong ngày, xoay phòng",
+    "mở từ bảng Đồ thị"
   ],
   "date": "2026-11-18"
 }
