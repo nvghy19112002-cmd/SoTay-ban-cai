@@ -1,12 +1,11 @@
 {
-  "version": "0.3.63",
-  "versionCode": 3063,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.63/SoTayToan-0.3.63.apk",
-  "sha256": "5dc045ce123b9fd0c2a07ac2e7031359843d71a91b9d5c62416bed537f9b7497",
+  "version": "0.3.64",
+  "versionCode": 3064,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.64/SoTayToan-0.3.64.apk",
+  "sha256": "e52cfdb5463da447b759117200a850b4d4eb20b55542eb623346838f958b4b0c",
   "notes": [
-    "Sửa kiến thức bài Tính chất: trường hợp hai hình chiếu trùng nhau thuộc tính chất ③ (không phải phản ví dụ)",
-    "viết đúng kí hiệu góc EÔF",
-    "nhắc điều kiện khi đường song song phương chiếu"
+    "Phép chiếu song song: thêm Hoạt động mở đầu Khung cửa sổ và Vệt nắng",
+    "hình nháp hiện đúng màu tô"
   ],
   "date": "2026-11-18"
 }
