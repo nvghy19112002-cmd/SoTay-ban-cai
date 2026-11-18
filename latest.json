@@ -1,14 +1,11 @@
 {
-  "version": "0.3.58",
-  "versionCode": 3058,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.58/SoTayToan-0.3.58.apk",
-  "sha256": "cf6bb8ac1d3db330058ff03b09192d7b5e24ab41f0498a231c8ba4fbd6ddca6c",
+  "version": "0.3.59",
+  "versionCode": 3059,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.59/SoTayToan-0.3.59.apk",
+  "sha256": "600f250143831faeb53ae38e42aaad5ea4934ae2b38fbd0c2b2b355c8b2b7747",
   "notes": [
-    "Phép chiếu song song – Định nghĩa: 10 mục bám sát SGK",
-    "tích / bỏ tích từng mục tùy ý (tự kèm phần cần thiết)",
-    "mặt trời là một mục riêng",
-    "mặt phẳng hiện mờ dần, nở nhẹ",
-    "nút Hiện hết"
+    "Phép chiếu song song: bài giảng Tính chất ① ② ③ ④ kèm phản ví dụ (trùng nhau, độ dài, góc)",
+    "bài giảng Hình biểu diễn (định nghĩa, tam giác, vuông/chữ nhật/thoi/bình hành, hình thang, tròn → elip)"
   ],
   "date": "2026-11-18"
 }
