@@ -1,15 +1,12 @@
 {
-  "version": "0.3.70",
-  "versionCode": 3070,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.70/SoTayToan-0.3.70.apk",
-  "sha256": "8972f36b508ebeb0ac994a84c53f25c088146432bcb38a52840e5410d284fa41",
+  "version": "0.3.71",
+  "versionCode": 3071,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.71/SoTayToan-0.3.71.apk",
+  "sha256": "ec99aa43cd8cc98654fd2f013e733f3f100bde4412ed20564379b547a7d2096a",
   "notes": [
-    "Ảnh trang trong thanh bên vẽ khi lướt tới, nhanh hơn với sổ dài",
-    "Giấy mới: Xám sương, Giấy cũ, Bảng xanh, Nền đen (giấy tối dùng màu phấn)",
-    "Bút chì có vân sần",
-    "Tô miền tô sát góc nhọn và hết miền hẹp",
-    "Bảng đo bút giữ tổng cả đợt viết",
-    "Thử nghiệm: Bút gốc Android (Menu, mặc định tắt)"
+    "Tô miền: tô kín mũi nêm sát đỉnh hình chóp khi nét đậm chụm lại",
+    "Tô miền: nhận đường màu trên PDF làm biên, khối màu đặc chỉ lấy viền",
+    "Tô miền: bỏ qua chữ/kí hiệu nhỏ trong miền, tô sát miền hẹp dài"
   ],
   "date": "2026-11-19"
 }
