@@ -1,12 +1,18 @@
 {
-  "version": "0.3.71",
-  "versionCode": 3071,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.71/SoTayToan-0.3.71.apk",
-  "sha256": "ec99aa43cd8cc98654fd2f013e733f3f100bde4412ed20564379b547a7d2096a",
+  "version": "0.3.72",
+  "versionCode": 3072,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.72/SoTayToan-0.3.72.apk",
+  "sha256": "d52c12c73f01db7e24b405361aff040a946bd8f20342f6f731aab8b967672942",
   "notes": [
-    "Tô miền: tô kín mũi nêm sát đỉnh hình chóp khi nét đậm chụm lại",
-    "Tô miền: nhận đường màu trên PDF làm biên, khối màu đặc chỉ lấy viền",
-    "Tô miền: bỏ qua chữ/kí hiệu nhỏ trong miền, tô sát miền hẹp dài"
+    "Bút máy bớt giật và đầu nét bút bi hết vuông",
+    "Bút che đáp án: kéo băng che, chạm để mở/che, xuất PDF đề hoặc đáp án",
+    "Bút nháp: viết tạm cho học sinh, có nút xoá hết nháp, hiện cả trên TV",
+    "Đồng hồ đếm ngược (Menu Xem) hiện cả trên TV",
+    "Thiết diện trình chiếu từng bước có đường kéo dài, điểm phụ E, giao tuyến song song và công tắc Đường phụ",
+    "Đồ thị có tham số m: thanh trượt, tóm tắt cực trị và giao điểm, chốt đường để so sánh",
+    "Đường tròn lượng giác: kéo điểm M, giá trị chính xác, phương trình cơ bản, họ nghiệm",
+    "Trục số và tập hợp: biểu diễn khoảng, giao, hợp, hiệu của hai tập",
+    "Đường tròn có điểm di động: kéo điểm trượt trên đường tròn, thêm bớt điểm"
   ],
   "date": "2026-11-19"
 }
