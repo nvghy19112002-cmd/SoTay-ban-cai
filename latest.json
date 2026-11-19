@@ -1,18 +1,12 @@
 {
-  "version": "0.3.72",
-  "versionCode": 3072,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.72/SoTayToan-0.3.72.apk",
-  "sha256": "d52c12c73f01db7e24b405361aff040a946bd8f20342f6f731aab8b967672942",
+  "version": "0.3.73",
+  "versionCode": 3073,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.73/SoTayToan-0.3.73.apk",
+  "sha256": "d8c2d747c5ab617b3c2a2320b70093d5d39c635dae455b79b9f65a2d7d78c5a5",
   "notes": [
-    "Bút máy bớt giật và đầu nét bút bi hết vuông",
-    "Bút che đáp án: kéo băng che, chạm để mở/che, xuất PDF đề hoặc đáp án",
-    "Bút nháp: viết tạm cho học sinh, có nút xoá hết nháp, hiện cả trên TV",
-    "Đồng hồ đếm ngược (Menu Xem) hiện cả trên TV",
-    "Thiết diện trình chiếu từng bước có đường kéo dài, điểm phụ E, giao tuyến song song và công tắc Đường phụ",
-    "Đồ thị có tham số m: thanh trượt, tóm tắt cực trị và giao điểm, chốt đường để so sánh",
-    "Đường tròn lượng giác: kéo điểm M, giá trị chính xác, phương trình cơ bản, họ nghiệm",
-    "Trục số và tập hợp: biểu diễn khoảng, giao, hợp, hiệu của hai tập",
-    "Đường tròn có điểm di động: kéo điểm trượt trên đường tròn, thêm bớt điểm"
+    "Chụp vùng: khoanh vùng trang thành ảnh PNG, tự chép để dán sang app khác",
+    "Công cụ dạy học gom theo khối lớp và chương SGK KNTT",
+    "Hệ trục Oxy/Oxyz trong Dựng hình (Thầy minh hoạ / Học sinh làm bài)"
   ],
   "date": "2026-11-19"
 }
