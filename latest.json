@@ -1,12 +1,17 @@
 {
-  "version": "0.3.74",
-  "versionCode": 3074,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.74/SoTayToan-0.3.74.apk",
-  "sha256": "6fd1f8d44de063927db3161b69a60b4e43613814607ae7a5af266e8c3b25e726",
+  "version": "0.3.75",
+  "versionCode": 3075,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.75/SoTayToan-0.3.75.apk",
+  "sha256": "d657754850d5879610d4cccb9587e87c8daf7ff92eb4ef4dcbc260654d300fbb",
   "notes": [
-    "Mở app nhanh hơn (nạp xuất PDF và Phòng có nắng khi cần)",
-    "xuất PDF/ảnh nhanh hơn (mã hoá tệp lớn bằng mã gốc, ảnh lặp chỉ nhúng một lần)",
-    "Dựng hình: dòng hướng dẫn cho mọi phép dựng, nút Bỏ điểm cuối và Huỷ, thông báo lỗi không còn bị che, ô tìm phép dựng không dấu"
+    "Công cụ dạy học theo lớp 6–12 và chương SGK",
+    "Thống kê: biểu đồ cột, tròn, tần số, hộp và số đặc trưng tự tính kèm cách tính",
+    "Đường tròn lượng giác có đồ thị sin, cos, tan chạy cùng điểm M",
+    "Cát tuyến thành tiếp tuyến (định nghĩa đạo hàm)",
+    "Vectơ động: tổng, hiệu, tích vô hướng, góc, hình chiếu",
+    "Oxyz dựng nhanh: điểm, vectơ, mặt phẳng, đường thẳng, mặt cầu và tự tính khoảng cách, góc, giao tuyến",
+    "Dựng hình thêm phép quay, vị tự, giao điểm đường tròn",
+    "hộp thoại mới không làm chậm app"
   ],
   "date": "2026-11-20"
 }
