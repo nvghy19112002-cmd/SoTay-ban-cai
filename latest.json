@@ -1,12 +1,12 @@
 {
-  "version": "0.3.73",
-  "versionCode": 3073,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.73/SoTayToan-0.3.73.apk",
-  "sha256": "d8c2d747c5ab617b3c2a2320b70093d5d39c635dae455b79b9f65a2d7d78c5a5",
+  "version": "0.3.74",
+  "versionCode": 3074,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.74/SoTayToan-0.3.74.apk",
+  "sha256": "6fd1f8d44de063927db3161b69a60b4e43613814607ae7a5af266e8c3b25e726",
   "notes": [
-    "Chụp vùng: khoanh vùng trang thành ảnh PNG, tự chép để dán sang app khác",
-    "Công cụ dạy học gom theo khối lớp và chương SGK KNTT",
-    "Hệ trục Oxy/Oxyz trong Dựng hình (Thầy minh hoạ / Học sinh làm bài)"
+    "Mở app nhanh hơn (nạp xuất PDF và Phòng có nắng khi cần)",
+    "xuất PDF/ảnh nhanh hơn (mã hoá tệp lớn bằng mã gốc, ảnh lặp chỉ nhúng một lần)",
+    "Dựng hình: dòng hướng dẫn cho mọi phép dựng, nút Bỏ điểm cuối và Huỷ, thông báo lỗi không còn bị che, ô tìm phép dựng không dấu"
   ],
-  "date": "2026-11-19"
+  "date": "2026-11-20"
 }
