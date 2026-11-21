@@ -1,13 +1,11 @@
 {
-  "version": "0.3.80",
-  "versionCode": 3080,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.80/SoTayToan-0.3.80.apk",
-  "sha256": "4b41e955e7ae6520f58824dc861d0b0afb0caaa3f18570fbb89ef605c3d8c796",
+  "version": "0.3.81",
+  "versionCode": 3081,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.81/SoTayToan-0.3.81.apk",
+  "sha256": "3b86bfa0c3601c5a7b8d4f7b9b8d9af21dfa3971e79c267b7d910b6e7c85d93f",
   "notes": [
-    "Nét bút mượt hơn khi phóng to (hết góc cạnh)",
-    "chọn đoạn thẳng: khung ôm sát và xoay theo đoạn",
-    "xem trước sổ nét hơn, hiện đúng ô li của giấy, không còn lưu bìa trắng khi PDF chưa đọc được",
-    "giấy Ô vuông xám chừa dải trống đầu trang, hít lưới và căn dòng theo dải đó"
+    "Phóng to luôn sắc nét (bỏ nút tắt)",
+    "bút máy đầu và cuối nét tròn, hết nhọn"
   ],
   "date": "2026-11-21"
 }
