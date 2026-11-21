@@ -1,11 +1,13 @@
 {
-  "version": "0.3.81",
-  "versionCode": 3081,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.81/SoTayToan-0.3.81.apk",
-  "sha256": "3b86bfa0c3601c5a7b8d4f7b9b8d9af21dfa3971e79c267b7d910b6e7c85d93f",
+  "version": "0.3.83",
+  "versionCode": 3083,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.83/SoTayToan-0.3.83.apk",
+  "sha256": "775a89d53645cd94caf0dff9228e76cb668d3475fa0146ee0976e0c0697ab38a",
   "notes": [
-    "Phóng to luôn sắc nét (bỏ nút tắt)",
-    "bút máy đầu và cuối nét tròn, hết nhọn"
+    "Điểm dựng nhớ quan hệ: hình đổi thì điểm chạy theo",
+    "Sửa tỉ lệ điểm chia đoạn",
+    "Xoá điểm gốc xoá kèm điểm dựng (hoàn tác được)",
+    "Bảng Các điểm trên trang"
   ],
   "date": "2026-11-21"
 }
