@@ -1,12 +1,16 @@
 {
-  "version": "0.3.77",
-  "versionCode": 3077,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.77/SoTayToan-0.3.77.apk",
-  "sha256": "ef9798bbabbb1b8007fbf0e1537a6089c734ccfbee820d90e4fc86eb8ca66efa",
+  "version": "0.3.78",
+  "versionCode": 3078,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.78/SoTayToan-0.3.78.apk",
+  "sha256": "2cf7c335b9a0b251a7266cdbb4cc74de9ed2e1a0e60f71ea1da86f4c02001013",
   "notes": [
-    "Gọi tên ngẫu nhiên (menu ☰): gọi công bằng không lặp tới khi hết lớp, gọi nhiều bạn một lần, đánh dấu vắng, xếp thứ tự, chia nhóm có nhóm trưởng, hiện tên lên TV",
-    "nhập danh sách lớp bằng cách dán từ Excel, Zalo hoặc chọn tệp .xlsx, .csv, .txt",
-    "nút Số đo ở hình nháp: gõ R, h, α, a, b… hình tự co đúng tỉ lệ, nhãn hiện R = 3 cm"
+    "Bút bi có công tắc Kiểu nét (như bản cũ / hiện tại)",
+    "bỏ hoàn tác 2-3 ngón",
+    "nút bên S Pen thêm Hoàn tác",
+    "nét viết tay không hít lưới",
+    "ảnh dán nằm dưới nét bút",
+    "vòng dây rõ hơn, TV thấy vùng chọn",
+    "giấy Ô vuông xám"
   ],
   "date": "2026-11-21"
 }
