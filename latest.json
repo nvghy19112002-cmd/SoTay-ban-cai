@@ -1,13 +1,10 @@
 {
-  "version": "0.3.83",
-  "versionCode": 3083,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.83/SoTayToan-0.3.83.apk",
-  "sha256": "775a89d53645cd94caf0dff9228e76cb668d3475fa0146ee0976e0c0697ab38a",
+  "version": "0.3.84",
+  "versionCode": 3084,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.84/SoTayToan-0.3.84.apk",
+  "sha256": "4f579f4ba3abefa04e0fa5f3e64fbc4ab0756204dc1ae282228b7c7b171147fb",
   "notes": [
-    "Điểm dựng nhớ quan hệ: hình đổi thì điểm chạy theo",
-    "Sửa tỉ lệ điểm chia đoạn",
-    "Xoá điểm gốc xoá kèm điểm dựng (hoàn tác được)",
-    "Bảng Các điểm trên trang"
+    "Kéo một điểm thì đoạn thẳng và tên nối vào điểm chạy theo (như GeoGebra)"
   ],
   "date": "2026-11-21"
 }
