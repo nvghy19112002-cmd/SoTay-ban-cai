@@ -1,17 +1,12 @@
 {
-  "version": "0.3.75",
-  "versionCode": 3075,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.75/SoTayToan-0.3.75.apk",
-  "sha256": "d657754850d5879610d4cccb9587e87c8daf7ff92eb4ef4dcbc260654d300fbb",
+  "version": "0.3.77",
+  "versionCode": 3077,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.77/SoTayToan-0.3.77.apk",
+  "sha256": "ef9798bbabbb1b8007fbf0e1537a6089c734ccfbee820d90e4fc86eb8ca66efa",
   "notes": [
-    "Công cụ dạy học theo lớp 6–12 và chương SGK",
-    "Thống kê: biểu đồ cột, tròn, tần số, hộp và số đặc trưng tự tính kèm cách tính",
-    "Đường tròn lượng giác có đồ thị sin, cos, tan chạy cùng điểm M",
-    "Cát tuyến thành tiếp tuyến (định nghĩa đạo hàm)",
-    "Vectơ động: tổng, hiệu, tích vô hướng, góc, hình chiếu",
-    "Oxyz dựng nhanh: điểm, vectơ, mặt phẳng, đường thẳng, mặt cầu và tự tính khoảng cách, góc, giao tuyến",
-    "Dựng hình thêm phép quay, vị tự, giao điểm đường tròn",
-    "hộp thoại mới không làm chậm app"
+    "Gọi tên ngẫu nhiên (menu ☰): gọi công bằng không lặp tới khi hết lớp, gọi nhiều bạn một lần, đánh dấu vắng, xếp thứ tự, chia nhóm có nhóm trưởng, hiện tên lên TV",
+    "nhập danh sách lớp bằng cách dán từ Excel, Zalo hoặc chọn tệp .xlsx, .csv, .txt",
+    "nút Số đo ở hình nháp: gõ R, h, α, a, b… hình tự co đúng tỉ lệ, nhãn hiện R = 3 cm"
   ],
-  "date": "2026-11-20"
+  "date": "2026-11-21"
 }
