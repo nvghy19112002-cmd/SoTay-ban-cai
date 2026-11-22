@@ -1,10 +1,17 @@
 {
-  "version": "0.3.84",
-  "versionCode": 3084,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.84/SoTayToan-0.3.84.apk",
-  "sha256": "4f579f4ba3abefa04e0fa5f3e64fbc4ab0756204dc1ae282228b7c7b171147fb",
+  "version": "0.3.86",
+  "versionCode": 3086,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.86/SoTayToan-0.3.86.apk",
+  "sha256": "e993f4731e5841fb492d4225ceb7828f36d0a34076a597ec50c0416930d69ad0",
   "notes": [
-    "Kéo một điểm thì đoạn thẳng và tên nối vào điểm chạy theo (như GeoGebra)"
+    "Trình chiếu mượt hơn, hết chữ ẩn hiện khi phóng to thu nhỏ",
+    "bàn phím số dùng chung cho mọi ô số",
+    "bảng Hình và bảng Dựng hình xếp lại khít hàng, tìm nhanh hơn",
+    "thanh chọn gọn hơn, không co giãn khi chụm phóng",
+    "nút Sửa hình",
+    "nhảy tới trang không còn lướt",
+    "dựng hình động: phép quay, vị tự, đối xứng, tịnh tiến, giao đường tròn và điểm trượt trên đường tròn chạy theo khi kéo",
+    "tắt sao lưu Google để không mất dữ liệu"
   ],
-  "date": "2026-11-21"
+  "date": "2026-11-22"
 }
