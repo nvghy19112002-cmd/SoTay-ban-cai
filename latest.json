@@ -1,17 +1,13 @@
 {
-  "version": "0.3.86",
-  "versionCode": 3086,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.86/SoTayToan-0.3.86.apk",
-  "sha256": "e993f4731e5841fb492d4225ceb7828f36d0a34076a597ec50c0416930d69ad0",
+  "version": "0.3.87",
+  "versionCode": 3087,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.87/SoTayToan-0.3.87.apk",
+  "sha256": "cadc09d0e86f6a5046af2b6b51e5888fe50b754b0989a80fa2864f568aa1c9c2",
   "notes": [
-    "Trình chiếu mượt hơn, hết chữ ẩn hiện khi phóng to thu nhỏ",
-    "bàn phím số dùng chung cho mọi ô số",
-    "bảng Hình và bảng Dựng hình xếp lại khít hàng, tìm nhanh hơn",
-    "thanh chọn gọn hơn, không co giãn khi chụm phóng",
-    "nút Sửa hình",
-    "nhảy tới trang không còn lướt",
-    "dựng hình động: phép quay, vị tự, đối xứng, tịnh tiến, giao đường tròn và điểm trượt trên đường tròn chạy theo khi kéo",
-    "tắt sao lưu Google để không mất dữ liệu"
+    "Giấy tối tự đổi màu mực (đen thành trắng phấn)",
+    "ghi chú riêng của giáo viên (ẩn trên TV và bản xuất)",
+    "vùng che mờ trên máy bảng, kín trên TV (chuẩn bị cho rèm che)",
+    "dựng hình động hoàn chỉnh (đường song song / vuông góc, điểm trượt trên đường tròn, bảng sửa định nghĩa điểm)"
   ],
-  "date": "2026-11-22"
+  "date": "2026-11-23"
 }
