@@ -1,13 +1,12 @@
 {
-  "version": "0.3.87",
-  "versionCode": 3087,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.87/SoTayToan-0.3.87.apk",
-  "sha256": "cadc09d0e86f6a5046af2b6b51e5888fe50b754b0989a80fa2864f568aa1c9c2",
+  "version": "0.3.88",
+  "versionCode": 3088,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.88/SoTayToan-0.3.88.apk",
+  "sha256": "0beeefc42ac692c06c28a0fdcd729dbc4f4b0bee01c64eac08dbfefde8137aa8",
   "notes": [
-    "Giấy tối tự đổi màu mực (đen thành trắng phấn)",
-    "ghi chú riêng của giáo viên (ẩn trên TV và bản xuất)",
-    "vùng che mờ trên máy bảng, kín trên TV (chuẩn bị cho rèm che)",
-    "dựng hình động hoàn chỉnh (đường song song / vuông góc, điểm trượt trên đường tròn, bảng sửa định nghĩa điểm)"
+    "Rèm che và Đèn chiếu (kéo che lời giải, TV che kín)",
+    "gắn số bước và trình chiếu từng bước",
+    "sửa lỗi mất chữ khi phóng to lần đầu"
   ],
   "date": "2026-11-23"
 }
