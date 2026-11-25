@@ -1,12 +1,16 @@
 {
-  "version": "0.3.88",
-  "versionCode": 3088,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.88/SoTayToan-0.3.88.apk",
-  "sha256": "0beeefc42ac692c06c28a0fdcd729dbc4f4b0bee01c64eac08dbfefde8137aa8",
+  "version": "0.3.89",
+  "versionCode": 3089,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.89/SoTayToan-0.3.89.apk",
+  "sha256": "918d11f61fb7fde6d62785f3fdbcd1a2da7fb383575694bad28bd927ee31d4a4",
   "notes": [
-    "Rèm che và Đèn chiếu (kéo che lời giải, TV che kín)",
-    "gắn số bước và trình chiếu từng bước",
-    "sửa lỗi mất chữ khi phóng to lần đầu"
+    "Kéo đỉnh hình vuông / đều / cân… dời cả hình, không méo",
+    "Số đo góc tự tính lại",
+    "Chân phân giác, tiếp tuyến, tia đối, cung 3 điểm, đường tròn chạy theo khi kéo",
+    "Nét đứt kéo dài tự hiện khi chân đường cao ra ngoài đoạn",
+    "Ô vuông góc vuông sai thì tô đỏ",
+    "Sửa lỗi mất dữ liệu: thùng rác, khôi phục sao lưu, nhân bản trang, nhập PDF khi đang viết",
+    "Thanh Chốt không còn tràn ra ngoài màn hình"
   ],
-  "date": "2026-11-23"
+  "date": "2026-11-25"
 }
