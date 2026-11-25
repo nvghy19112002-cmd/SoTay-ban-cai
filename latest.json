@@ -1,16 +1,17 @@
 {
-  "version": "0.3.89",
-  "versionCode": 3089,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.89/SoTayToan-0.3.89.apk",
-  "sha256": "918d11f61fb7fde6d62785f3fdbcd1a2da7fb383575694bad28bd927ee31d4a4",
+  "version": "0.3.90",
+  "versionCode": 3090,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.90/SoTayToan-0.3.90.apk",
+  "sha256": "63c3c3c97e8442ca106737d99bd4c36222cbfa1b2e70a6dea2536c678a0d391f",
   "notes": [
-    "Kéo đỉnh hình vuông / đều / cân… dời cả hình, không méo",
-    "Số đo góc tự tính lại",
-    "Chân phân giác, tiếp tuyến, tia đối, cung 3 điểm, đường tròn chạy theo khi kéo",
-    "Nét đứt kéo dài tự hiện khi chân đường cao ra ngoài đoạn",
-    "Ô vuông góc vuông sai thì tô đỏ",
-    "Sửa lỗi mất dữ liệu: thùng rác, khôi phục sao lưu, nhân bản trang, nhập PDF khi đang viết",
-    "Thanh Chốt không còn tràn ra ngoài màn hình"
+    "Nhẹ bộ nhớ hơn: sổ nhiều hình, nhiều trang PDF không làm máy hết bộ nhớ",
+    "Ảnh chụp chèn vào nhẹ hơn 3–10 lần",
+    "Viết lúc phóng to không còn chậm dần",
+    "Chiếu TV mượt hơn khi viết nét dài",
+    "Thanh nổi và menu không còn tràn ra ngoài màn hình",
+    "Sửa Hoàn tác sau khi chỉnh độ đậm ảnh",
+    "Khôi phục bản sao lưu lớn không bị treo",
+    "Tắt bút gốc Android (thử nghiệm)"
   ],
   "date": "2026-11-25"
 }
