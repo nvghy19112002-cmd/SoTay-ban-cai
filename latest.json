@@ -1,17 +1,13 @@
 {
-  "version": "0.3.90",
-  "versionCode": 3090,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.90/SoTayToan-0.3.90.apk",
-  "sha256": "63c3c3c97e8442ca106737d99bd4c36222cbfa1b2e70a6dea2536c678a0d391f",
+  "version": "0.3.91",
+  "versionCode": 3091,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.91/SoTayToan-0.3.91.apk",
+  "sha256": "ee729fd59c0ac626857f7aa406aec7892a63daa1f0214b746cfcfcbbff62e3f0",
   "notes": [
-    "Nhẹ bộ nhớ hơn: sổ nhiều hình, nhiều trang PDF không làm máy hết bộ nhớ",
-    "Ảnh chụp chèn vào nhẹ hơn 3–10 lần",
-    "Viết lúc phóng to không còn chậm dần",
-    "Chiếu TV mượt hơn khi viết nét dài",
-    "Thanh nổi và menu không còn tràn ra ngoài màn hình",
-    "Sửa Hoàn tác sau khi chỉnh độ đậm ảnh",
-    "Khôi phục bản sao lưu lớn không bị treo",
-    "Tắt bút gốc Android (thử nghiệm)"
+    "TV nhận nét theo thời gian thực khi chiếu HDMI / Smart View, không còn đợi nhấc bút",
+    "gửi nét sang TV nhanh hơn",
+    "số đo độ trễ máy → TV khi mở Bảng đo bút",
+    "hình học: co giãn số đo theo vùng chọn, vạch bằng nhau, nhãn góc kéo riêng, sửa ô góc"
   ],
   "date": "2026-11-25"
 }
