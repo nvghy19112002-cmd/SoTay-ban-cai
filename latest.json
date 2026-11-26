@@ -1,13 +1,13 @@
 {
-  "version": "0.3.91",
-  "versionCode": 3091,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.91/SoTayToan-0.3.91.apk",
-  "sha256": "ee729fd59c0ac626857f7aa406aec7892a63daa1f0214b746cfcfcbbff62e3f0",
+  "version": "0.3.92",
+  "versionCode": 3092,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.92/SoTayToan-0.3.92.apk",
+  "sha256": "c7b23a2eafc8a8b744e1ba70e1b90e710aeae52fd6a14aae2f8dd2961cd74f46",
   "notes": [
-    "TV nhận nét theo thời gian thực khi chiếu HDMI / Smart View, không còn đợi nhấc bút",
-    "gửi nét sang TV nhanh hơn",
-    "số đo độ trễ máy → TV khi mở Bảng đo bút",
-    "hình học: co giãn số đo theo vùng chọn, vạch bằng nhau, nhãn góc kéo riêng, sửa ô góc"
+    "Phóng to / thu nhỏ không còn bị mất chữ rồi hiện lại",
+    "Kho giấy gọn: Giấy trắng, Kẻ dòng, Ô ly, thêm khổ A5 dọc/ngang và 3 mẫu mới (kẻ thưa, Đề bài|Lời giải, Soạn bài)",
+    "Bảng chẩn đoán trong Cài đặt → Nâng cao",
+    "Bỏ nhắc sao lưu 7 ngày, Thùng rác giữ vĩnh viễn"
   ],
-  "date": "2026-11-25"
+  "date": "2026-11-26"
 }
