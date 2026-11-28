@@ -1,13 +1,14 @@
 {
-  "version": "0.3.92",
-  "versionCode": 3092,
-  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.92/SoTayToan-0.3.92.apk",
-  "sha256": "c7b23a2eafc8a8b744e1ba70e1b90e710aeae52fd6a14aae2f8dd2961cd74f46",
+  "version": "0.3.93",
+  "versionCode": 3093,
+  "url": "https://github.com/nvghy19112002-cmd/SoTay-ban-cai/releases/download/v0.3.93/SoTayToan-0.3.93.apk",
+  "sha256": "77cc9764b2eaa549acb0bb5966353a221deeaf2620b9be4541ac2451dde6964d",
   "notes": [
-    "Phóng to / thu nhỏ không còn bị mất chữ rồi hiện lại",
-    "Kho giấy gọn: Giấy trắng, Kẻ dòng, Ô ly, thêm khổ A5 dọc/ngang và 3 mẫu mới (kẻ thưa, Đề bài|Lời giải, Soạn bài)",
-    "Bảng chẩn đoán trong Cài đặt → Nâng cao",
-    "Bỏ nhắc sao lưu 7 ngày, Thùng rác giữ vĩnh viễn"
+    "Mới: công cụ Giới hạn một bên (Toán 11) — hai con kiến bò về x₀, khi trình chiếu chạm đúp để kéo ngay trên trang",
+    "Chèn khoảng trống chọn được giấy Trơn, Kẻ dòng, Ô ly",
+    "Phóng to sau nét viết đầu tiên bớt nguy cơ mất chữ",
+    "Trình chiếu: bút bớt nặng, sửa lỗi bút chỉ ra một chấm sau khi trình chiếu, đồng hồ và gọi tên hiện lại khi nối TV",
+    "Viết trên trang đã chèn khoảng trống không còn mất nét"
   ],
-  "date": "2026-11-26"
+  "date": "2026-11-28"
 }
